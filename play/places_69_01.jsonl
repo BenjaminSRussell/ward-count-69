@@ -384,3 +384,6 @@
 {"n":384,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east stair. arc left open. 5 steps. The radio coil stays for the hold."}
 {"n":385,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the radio coil at Drydock. Nobody past the east stair. We hold in 6 steps. Arc on the left lane, open."}
 {"n":386,"kind":"place","name":"Drydock east stair","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock east stair. Matt keeps the radio coil for the hold. 7 steps, arc on the left lane, open."}
+{"n":387,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east stair. arc left open. 8 steps. The radio coil stays for the hold."}
+{"n":388,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the radio coil at Drydock. Nobody past the east stair. We hold in 2 steps. Arc on the left lane, open."}
+{"n":389,"kind":"place","name":"Drydock east stair","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock east stair. Nia keeps the radio coil for the hold. 3 steps, arc on the left lane, open."}
