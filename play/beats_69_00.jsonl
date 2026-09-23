@@ -467,3 +467,6 @@
 {"n":467,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rope at the Underpass. Nobody past the east stair. We hold in 5 steps. Arc on the left lane, open."}
 {"n":468,"kind":"place","name":"the Underpass east stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Underpass east stair. Ivo keeps the rope for the hold. 6 steps, arc on the left lane, open."}
 {"n":469,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east stair. arc left open. 7 steps. The rope stays for the hold."}
+{"n":470,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rope at the Underpass. Nobody past the east stair. We hold in 8 steps. Arc on the left lane, open."}
+{"n":471,"kind":"place","name":"the Underpass east stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Underpass east stair. Bess keeps the rope for the hold. 2 steps, arc on the left lane, open."}
+{"n":472,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east stair. arc left open. 3 steps. The rope stays for the hold."}
