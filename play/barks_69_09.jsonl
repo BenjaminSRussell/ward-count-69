@@ -18,3 +18,6 @@
 {"n":18,"kind":"place","name":"Mall court east roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mall court east roof. Matt keeps the drum for the hold. 2 steps, arc on the left lane, open."}
 {"n":19,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, east roof. arc left open. 3 steps. The drum stays for the hold."}
 {"n":20,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the drum at Mall court. Nobody past the east roof. We hold in 4 steps. Arc on the left lane, open."}
+{"n":21,"kind":"place","name":"Mall court east roof","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Mall court east roof. Nia keeps the drum for the hold. 5 steps, arc on the left lane, open."}
+{"n":22,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, east roof. arc left open. 6 steps. The drum stays for the hold."}
+{"n":23,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at Mall court. Nobody past the east roof. We hold in 7 steps. Arc on the left lane, open."}
