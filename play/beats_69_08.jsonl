@@ -441,3 +441,6 @@
 {"n":441,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rebar at Drydock. Nobody past the east roof. We hold in 6 steps. Arc on the left lane, open."}
 {"n":442,"kind":"place","name":"Drydock east roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock east roof. Matt keeps the rebar for the hold. 7 steps, arc on the left lane, open."}
 {"n":443,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east roof. arc left open. 8 steps. The rebar stays for the hold."}
+{"n":444,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the rebar at Drydock. Nobody past the east roof. We hold in 2 steps. Arc on the left lane, open."}
+{"n":445,"kind":"place","name":"Drydock east roof","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock east roof. Nia keeps the rebar for the hold. 3 steps, arc on the left lane, open."}
+{"n":446,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, east roof. arc left open. 4 steps. The rebar stays for the hold."}
