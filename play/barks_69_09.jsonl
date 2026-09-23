@@ -900,3 +900,6 @@
 {"n":900,"kind":"place","name":"Last Light north roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Last Light north roof. Ivo keeps the barrel for the hold. 2 steps, arc on the left lane, open."}
 {"n":901,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, north roof. arc left open. 3 steps. The barrel stays for the hold."}
 {"n":902,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at Last Light. Nobody past the north roof. We hold in 4 steps. Arc on the left lane, open."}
+{"n":903,"kind":"place","name":"Last Light north roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Last Light north roof. Bess keeps the barrel for the hold. 5 steps, arc on the left lane, open."}
+{"n":904,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north roof. arc left open. 6 steps. The barrel stays for the hold."}
+{"n":905,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the barrel at South stair. Nobody past the north roof. We hold in 7 steps. Arc on the left lane, open."}
