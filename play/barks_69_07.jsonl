@@ -989,3 +989,6 @@
 {"n":989,"kind":"place","name":"the Lot east roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Lot east roof. Nia keeps the crate for the hold. 2 steps, arc on the left lane, open."}
 {"n":990,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, east roof. arc left open. 3 steps. The crate stays for the hold."}
 {"n":991,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the crate at the Lot. Nobody past the east roof. We hold in 4 steps. Arc on the left lane, open."}
+{"n":992,"kind":"place","name":"the Lot east roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot east roof. Ivo keeps the crate for the hold. 5 steps, arc on the left lane, open."}
+{"n":993,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east roof. arc left open. 6 steps. The crate stays for the hold."}
+{"n":994,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the crate at the Lot. Nobody past the east roof. We hold in 7 steps. Arc on the left lane, open."}
