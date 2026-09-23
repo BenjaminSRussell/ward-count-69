@@ -142,3 +142,6 @@
 {"n":142,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the badge door at Kessler alley. Nobody past the west roof. We hold in 2 steps. Arc on the left lane, open."}
 {"n":143,"kind":"place","name":"Kessler alley west roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley west roof. Bess keeps the badge door for the hold. 3 steps, arc on the left lane, open."}
 {"n":144,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west roof. arc left open. 4 steps. The badge door stays for the hold."}
+{"n":145,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the badge door at the Lot. Nobody past the west roof. We hold in 5 steps. Arc on the left lane, open."}
+{"n":146,"kind":"place","name":"the Lot west roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Lot west roof. Matt keeps the badge door for the hold. 6 steps, arc on the left lane, open."}
+{"n":147,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west roof. arc left open. 7 steps. The badge door stays for the hold."}
