@@ -629,3 +629,6 @@
 {"n":629,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east roof. arc left open. 5 steps. The rope stays for the hold."}
 {"n":630,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rope at High line. Nobody past the east roof. We hold in 6 steps. Arc on the left lane, open."}
 {"n":631,"kind":"place","name":"High line east roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line east roof. Bess keeps the rope for the hold. 7 steps, arc on the left lane, open."}
+{"n":632,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east roof. arc left open. 8 steps. The rope stays for the hold."}
+{"n":633,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the shutter at Ward gate. Nobody past the east roof. We hold in 2 steps. Arc on the left lane, open."}
+{"n":634,"kind":"place","name":"Ward gate east roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate east roof. Matt keeps the shutter for the hold. 3 steps, arc on the left lane, open."}
