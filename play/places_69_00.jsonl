@@ -298,3 +298,6 @@
 {"n":298,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east stair. arc left open. 4 steps. The rebar stays for the hold."}
 {"n":299,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rebar at the Underpass. Nobody past the east stair. We hold in 5 steps. Arc on the left lane, open."}
 {"n":300,"kind":"place","name":"the Underpass east stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass east stair. Ivo keeps the rebar for the hold. 6 steps, arc on the left lane, open."}
+{"n":301,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east stair. arc left open. 7 steps. The rebar stays for the hold."}
+{"n":302,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at the Underpass. Nobody past the east stair. We hold in 8 steps. Arc on the left lane, open."}
+{"n":303,"kind":"place","name":"the Underpass east stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Underpass east stair. Bess keeps the rebar for the hold. 2 steps, arc on the left lane, open."}
