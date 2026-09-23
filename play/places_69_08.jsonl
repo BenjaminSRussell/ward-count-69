@@ -740,3 +740,6 @@
 {"n":740,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east roof. arc left open. 4 steps. The shutter stays for the hold."}
 {"n":741,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the shutter at the pier. Nobody past the east roof. We hold in 5 steps. Arc on the left lane, open."}
 {"n":742,"kind":"place","name":"the pier east roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the pier east roof. Matt keeps the shutter for the hold. 6 steps, arc on the left lane, open."}
+{"n":743,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east roof. arc left open. 7 steps. The shutter stays for the hold."}
+{"n":744,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the shutter at the pier. Nobody past the east roof. We hold in 8 steps. Arc on the left lane, open."}
+{"n":745,"kind":"place","name":"the pier east roof","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the pier east roof. Nia keeps the shutter for the hold. 2 steps, arc on the left lane, open."}
