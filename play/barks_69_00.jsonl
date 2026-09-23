@@ -885,3 +885,6 @@
 {"n":885,"kind":"place","name":"Drydock east stair","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock east stair. Nia keeps the awning for the hold. 3 steps, arc on the left lane, open."}
 {"n":886,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, east stair. arc left open. 4 steps. The awning stays for the hold."}
 {"n":887,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the awning at Drydock. Nobody past the east stair. We hold in 5 steps. Arc on the left lane, open."}
+{"n":888,"kind":"place","name":"Drydock east stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock east stair. Ivo keeps the awning for the hold. 6 steps, arc on the left lane, open."}
+{"n":889,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east stair. arc left open. 7 steps. The awning stays for the hold."}
+{"n":890,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the awning at Drydock. Nobody past the east stair. We hold in 8 steps. Arc on the left lane, open."}
