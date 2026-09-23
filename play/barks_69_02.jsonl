@@ -58,3 +58,6 @@
 {"n":58,"kind":"place","name":"Drydock north stair","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Drydock north stair. Matt keeps the crate for the hold. 7 steps, arc on the left lane, open."}
 {"n":59,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north stair. arc left open. 8 steps. The crate stays for the hold."}
 {"n":60,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the crate at Drydock. Nobody past the north stair. We hold in 2 steps. Arc on the left lane, open."}
+{"n":61,"kind":"place","name":"Drydock north stair","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Drydock north stair. Nia keeps the crate for the hold. 3 steps, arc on the left lane, open."}
+{"n":62,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north stair. arc left open. 4 steps. The crate stays for the hold."}
+{"n":63,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the crate at Drydock. Nobody past the north stair. We hold in 5 steps. Arc on the left lane, open."}
