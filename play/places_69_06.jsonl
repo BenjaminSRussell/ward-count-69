@@ -169,3 +169,6 @@
 {"n":169,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west roof. arc left open. 2 steps. The lamp stays for the hold."}
 {"n":170,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at Mall court. Nobody past the west roof. We hold in 3 steps. Arc on the left lane, open."}
 {"n":171,"kind":"place","name":"Mall court west roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court west roof. Bess keeps the lamp for the hold. 4 steps, arc on the left lane, open."}
+{"n":172,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west roof. arc left open. 5 steps. The lamp stays for the hold."}
+{"n":173,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the lamp at the Underpass. Nobody past the west roof. We hold in 6 steps. Arc on the left lane, open."}
+{"n":174,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass west roof. Matt keeps the lamp for the hold. 7 steps, arc on the left lane, open."}
