@@ -492,3 +492,6 @@
 {"n":492,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east roof. arc left open. 2 steps. The plywood stays for the hold."}
 {"n":493,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the plywood at Stockyard fence. Nobody past the east roof. We hold in 3 steps. Arc on the left lane, open."}
 {"n":494,"kind":"place","name":"Stockyard fence east roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence east roof. Matt keeps the plywood for the hold. 4 steps, arc on the left lane, open."}
+{"n":495,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east roof. arc left open. 5 steps. The plywood stays for the hold."}
+{"n":496,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the plywood at Stockyard fence. Nobody past the east roof. We hold in 6 steps. Arc on the left lane, open."}
+{"n":497,"kind":"place","name":"Stockyard fence east roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence east roof. Nia keeps the plywood for the hold. 7 steps, arc on the left lane, open."}
