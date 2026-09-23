@@ -528,3 +528,6 @@
 {"n":528,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east roof. arc left open. 3 steps. The plywood stays for the hold."}
 {"n":529,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the plywood at Mast yard. Nobody past the east roof. We hold in 4 steps. Arc on the left lane, open."}
 {"n":530,"kind":"place","name":"Mast yard east roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mast yard east roof. Matt keeps the plywood for the hold. 5 steps, arc on the left lane, open."}
+{"n":531,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, east roof. arc left open. 6 steps. The plywood stays for the hold."}
+{"n":532,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the plywood at Mast yard. Nobody past the east roof. We hold in 7 steps. Arc on the left lane, open."}
+{"n":533,"kind":"place","name":"Mast yard east roof","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mast yard east roof. Nia keeps the plywood for the hold. 8 steps, arc on the left lane, open."}
