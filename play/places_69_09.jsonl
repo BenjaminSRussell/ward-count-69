@@ -946,3 +946,6 @@
 {"n":946,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north roof. arc left open. 6 steps. The barrel stays for the hold."}
 {"n":947,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the barrel at Switchyard. Nobody past the north roof. We hold in 7 steps. Arc on the left lane, open."}
 {"n":948,"kind":"place","name":"Switchyard north roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard north roof. Ivo keeps the barrel for the hold. 8 steps, arc on the left lane, open."}
+{"n":949,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north roof. arc left open. 2 steps. The barrel stays for the hold."}
+{"n":950,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at Switchyard. Nobody past the north roof. We hold in 3 steps. Arc on the left lane, open."}
+{"n":951,"kind":"place","name":"Switchyard north roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard north roof. Bess keeps the barrel for the hold. 4 steps, arc on the left lane, open."}
