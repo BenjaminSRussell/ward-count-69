@@ -175,3 +175,6 @@
 {"n":175,"kind":"place","name":"Stockyard fence east roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Stockyard fence east roof. Bess keeps the lamp for the hold. 6 steps, arc on the left lane, open."}
 {"n":176,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, east roof. arc left open. 7 steps. The lamp stays for the hold."}
 {"n":177,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the lamp at Mall court. Nobody past the east roof. We hold in 8 steps. Arc on the left lane, open."}
+{"n":178,"kind":"place","name":"Mall court east roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mall court east roof. Matt keeps the lamp for the hold. 2 steps, arc on the left lane, open."}
+{"n":179,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, east roof. arc left open. 3 steps. The lamp stays for the hold."}
+{"n":180,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the lamp at Mall court. Nobody past the east roof. We hold in 4 steps. Arc on the left lane, open."}
