@@ -921,3 +921,6 @@
 {"n":921,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the awning at Clinic roof. Nobody past the east roof. We hold in 3 steps. Arc on the left lane, open."}
 {"n":922,"kind":"place","name":"Clinic roof east roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof east roof. Matt keeps the awning for the hold. 4 steps, arc on the left lane, open."}
 {"n":923,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, east roof. arc left open. 5 steps. The awning stays for the hold."}
+{"n":924,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the awning at Clinic roof. Nobody past the east roof. We hold in 6 steps. Arc on the left lane, open."}
+{"n":925,"kind":"place","name":"Clinic roof east roof","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Clinic roof east roof. Nia keeps the awning for the hold. 7 steps, arc on the left lane, open."}
+{"n":926,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, east roof. arc left open. 8 steps. The awning stays for the hold."}
