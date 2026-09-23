@@ -729,3 +729,6 @@
 {"n":729,"kind":"place","name":"Last Light north roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Last Light north roof. Nia keeps the hydrant for the hold. 6 steps, arc on the left lane, open."}
 {"n":730,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, north roof. arc left open. 7 steps. The hydrant stays for the hold."}
 {"n":731,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at Last Light. Nobody past the north roof. We hold in 8 steps. Arc on the left lane, open."}
+{"n":732,"kind":"place","name":"Last Light north roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Last Light north roof. Ivo keeps the hydrant for the hold. 2 steps, arc on the left lane, open."}
+{"n":733,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, north roof. arc left open. 3 steps. The hydrant stays for the hold."}
+{"n":734,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at Last Light. Nobody past the north roof. We hold in 4 steps. Arc on the left lane, open."}
