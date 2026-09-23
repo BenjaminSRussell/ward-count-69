@@ -473,3 +473,6 @@
 {"n":473,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north stair. arc left open. 2 steps. The rope stays for the hold."}
 {"n":474,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rope at Mall court. Nobody past the north stair. We hold in 3 steps. Arc on the left lane, open."}
 {"n":475,"kind":"place","name":"Mall court north stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mall court north stair. Bess keeps the rope for the hold. 4 steps, arc on the left lane, open."}
+{"n":476,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north stair. arc left open. 5 steps. The rope stays for the hold."}
+{"n":477,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rope at the Underpass. Nobody past the north stair. We hold in 6 steps. Arc on the left lane, open."}
+{"n":478,"kind":"place","name":"the Underpass north stair","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Underpass north stair. Matt keeps the rope for the hold. 7 steps, arc on the left lane, open."}
