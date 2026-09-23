@@ -962,3 +962,6 @@
 {"n":962,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at Mall court. Nobody past the east stair. We hold in 3 steps. Arc on the left lane, open."}
 {"n":963,"kind":"place","name":"Mall court east stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mall court east stair. Bess keeps the drum for the hold. 4 steps, arc on the left lane, open."}
 {"n":964,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, east stair. arc left open. 5 steps. The drum stays for the hold."}
+{"n":965,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the drum at the Underpass. Nobody past the east stair. We hold in 6 steps. Arc on the left lane, open."}
+{"n":966,"kind":"place","name":"the Underpass east stair","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Underpass east stair. Matt keeps the drum for the hold. 7 steps, arc on the left lane, open."}
+{"n":967,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east stair. arc left open. 8 steps. The drum stays for the hold."}
