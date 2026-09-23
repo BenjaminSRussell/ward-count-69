@@ -309,3 +309,6 @@
 {"n":309,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west roof. arc left open. 8 steps. The radio coil stays for the hold."}
 {"n":310,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at Kessler alley. Nobody past the west roof. We hold in 2 steps. Arc on the left lane, open."}
 {"n":311,"kind":"place","name":"Kessler alley west roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley west roof. Bess keeps the radio coil for the hold. 3 steps, arc on the left lane, open."}
+{"n":312,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west roof. arc left open. 4 steps. The radio coil stays for the hold."}
+{"n":313,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the radio coil at the Lot. Nobody past the west roof. We hold in 5 steps. Arc on the left lane, open."}
+{"n":314,"kind":"place","name":"the Lot west roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot west roof. Matt keeps the radio coil for the hold. 6 steps, arc on the left lane, open."}
