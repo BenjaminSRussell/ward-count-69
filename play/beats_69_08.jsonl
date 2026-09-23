@@ -687,3 +687,6 @@
 {"n":687,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the shutter at Mall court. Nobody past the east roof. We hold in 7 steps. Arc on the left lane, open."}
 {"n":688,"kind":"place","name":"Mall court east roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mall court east roof. Ivo keeps the shutter for the hold. 8 steps, arc on the left lane, open."}
 {"n":689,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, east roof. arc left open. 2 steps. The shutter stays for the hold."}
+{"n":690,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at Mall court. Nobody past the east roof. We hold in 3 steps. Arc on the left lane, open."}
+{"n":691,"kind":"place","name":"Mall court east roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court east roof. Bess keeps the shutter for the hold. 4 steps, arc on the left lane, open."}
+{"n":692,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, east roof. arc left open. 5 steps. The shutter stays for the hold."}
