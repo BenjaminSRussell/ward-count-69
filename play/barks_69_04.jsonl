@@ -623,3 +623,6 @@
 {"n":623,"kind":"place","name":"Kessler alley south stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley south stair. Bess keeps the shutter for the hold. 3 steps, arc on the left lane, open."}
 {"n":624,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south stair. arc left open. 4 steps. The shutter stays for the hold."}
 {"n":625,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the shutter at the Lot. Nobody past the south stair. We hold in 5 steps. Arc on the left lane, open."}
+{"n":626,"kind":"place","name":"the Lot south stair","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Lot south stair. Matt keeps the shutter for the hold. 6 steps, arc on the left lane, open."}
+{"n":627,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, south stair. arc left open. 7 steps. The shutter stays for the hold."}
+{"n":628,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the shutter at the Lot. Nobody past the south stair. We hold in 8 steps. Arc on the left lane, open."}
