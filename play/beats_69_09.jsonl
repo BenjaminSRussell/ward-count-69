@@ -782,3 +782,6 @@
 {"n":782,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at Switchyard. Nobody past the north roof. We hold in 3 steps. Arc on the left lane, open."}
 {"n":783,"kind":"place","name":"Switchyard north roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard north roof. Bess keeps the hydrant for the hold. 4 steps, arc on the left lane, open."}
 {"n":784,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north roof. arc left open. 5 steps. The hydrant stays for the hold."}
+{"n":785,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the hydrant at Drydock. Nobody past the north roof. We hold in 6 steps. Arc on the left lane, open."}
+{"n":786,"kind":"place","name":"Drydock north roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock north roof. Matt keeps the hydrant for the hold. 7 steps, arc on the left lane, open."}
+{"n":787,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north roof. arc left open. 8 steps. The hydrant stays for the hold."}
