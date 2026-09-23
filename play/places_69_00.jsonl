@@ -646,3 +646,6 @@
 {"n":646,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east stair. arc left open. 2 steps. The shutter stays for the hold."}
 {"n":647,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the shutter at Mast yard. Nobody past the east stair. We hold in 3 steps. Arc on the left lane, open."}
 {"n":648,"kind":"place","name":"Mast yard east stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard east stair. Ivo keeps the shutter for the hold. 4 steps, arc on the left lane, open."}
+{"n":649,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east stair. arc left open. 5 steps. The shutter stays for the hold."}
+{"n":650,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at Mast yard. Nobody past the east stair. We hold in 6 steps. Arc on the left lane, open."}
+{"n":651,"kind":"place","name":"Mast yard east stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard east stair. Bess keeps the shutter for the hold. 7 steps, arc on the left lane, open."}
