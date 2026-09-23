@@ -263,3 +263,6 @@
 {"n":263,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rebar at the Lot. Nobody past the east stair. We hold in 4 steps. Arc on the left lane, open."}
 {"n":264,"kind":"place","name":"the Lot east stair","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot east stair. Ivo keeps the rebar for the hold. 5 steps, arc on the left lane, open."}
 {"n":265,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east stair. arc left open. 6 steps. The rebar stays for the hold."}
+{"n":266,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at the Lot. Nobody past the east stair. We hold in 7 steps. Arc on the left lane, open."}
+{"n":267,"kind":"place","name":"the Lot east stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot east stair. Bess keeps the rebar for the hold. 8 steps, arc on the left lane, open."}
+{"n":268,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east stair. arc left open. 2 steps. The rebar stays for the hold."}
