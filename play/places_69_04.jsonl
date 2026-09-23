@@ -261,3 +261,6 @@
 {"n":261,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south stair. arc left open. 5 steps. The lamp stays for the hold."}
 {"n":262,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at High line. Nobody past the south stair. We hold in 6 steps. Arc on the left lane, open."}
 {"n":263,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line south stair. Bess keeps the lamp for the hold. 7 steps, arc on the left lane, open."}
+{"n":264,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south stair. arc left open. 8 steps. The lamp stays for the hold."}
+{"n":265,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rebar at Ward gate. Nobody past the south stair. We hold in 2 steps. Arc on the left lane, open."}
+{"n":266,"kind":"place","name":"Ward gate south stair","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate south stair. Matt keeps the rebar for the hold. 3 steps, arc on the left lane, open."}
