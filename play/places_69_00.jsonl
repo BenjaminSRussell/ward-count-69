@@ -553,3 +553,6 @@
 {"n":553,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east stair. arc left open. 7 steps. The rope stays for the hold."}
 {"n":554,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rope at Drydock. Nobody past the east stair. We hold in 8 steps. Arc on the left lane, open."}
 {"n":555,"kind":"place","name":"Drydock east stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Drydock east stair. Bess keeps the rope for the hold. 2 steps, arc on the left lane, open."}
+{"n":556,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east stair. arc left open. 3 steps. The rope stays for the hold."}
+{"n":557,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rope at High line. Nobody past the east stair. We hold in 4 steps. Arc on the left lane, open."}
+{"n":558,"kind":"place","name":"High line east stair","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"High line east stair. Matt keeps the rope for the hold. 5 steps, arc on the left lane, open."}
