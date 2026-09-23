@@ -990,3 +990,6 @@
 {"n":990,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the crate at Stockyard fence. Nobody past the west roof. We hold in 5 steps. Arc on the left lane, open."}
 {"n":991,"kind":"place","name":"Stockyard fence west roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Stockyard fence west roof. Bess keeps the crate for the hold. 6 steps, arc on the left lane, open."}
 {"n":992,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, west roof. arc left open. 7 steps. The crate stays for the hold."}
+{"n":993,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the crate at Mall court. Nobody past the west roof. We hold in 8 steps. Arc on the left lane, open."}
+{"n":994,"kind":"place","name":"Mall court west roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mall court west roof. Matt keeps the crate for the hold. 2 steps, arc on the left lane, open."}
+{"n":995,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, west roof. arc left open. 3 steps. The crate stays for the hold."}
