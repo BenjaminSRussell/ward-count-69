@@ -248,3 +248,6 @@
 {"n":248,"kind":"place","name":"Drydock south stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock south stair. Ivo keeps the lamp for the hold. 6 steps, arc on the left lane, open."}
 {"n":249,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south stair. arc left open. 7 steps. The lamp stays for the hold."}
 {"n":250,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at Drydock. Nobody past the south stair. We hold in 8 steps. Arc on the left lane, open."}
+{"n":251,"kind":"place","name":"Drydock south stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock south stair. Bess keeps the lamp for the hold. 2 steps, arc on the left lane, open."}
+{"n":252,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south stair. arc left open. 3 steps. The lamp stays for the hold."}
+{"n":253,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the lamp at High line. Nobody past the south stair. We hold in 4 steps. Arc on the left lane, open."}
