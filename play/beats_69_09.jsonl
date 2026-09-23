@@ -857,3 +857,6 @@
 {"n":857,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the barrel at Mall court. Nobody past the north roof. We hold in 8 steps. Arc on the left lane, open."}
 {"n":858,"kind":"place","name":"Mall court north roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mall court north roof. Matt keeps the barrel for the hold. 2 steps, arc on the left lane, open."}
 {"n":859,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, north roof. arc left open. 3 steps. The barrel stays for the hold."}
+{"n":860,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the barrel at Mall court. Nobody past the north roof. We hold in 4 steps. Arc on the left lane, open."}
+{"n":861,"kind":"place","name":"Mall court north roof","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Mall court north roof. Nia keeps the barrel for the hold. 5 steps, arc on the left lane, open."}
+{"n":862,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, north roof. arc left open. 6 steps. The barrel stays for the hold."}
