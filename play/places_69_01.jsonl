@@ -873,3 +873,6 @@
 {"n":873,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north stair. arc left open. 4 steps. The barrel stays for the hold."}
 {"n":874,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at Clinic roof. Nobody past the north stair. We hold in 5 steps. Arc on the left lane, open."}
 {"n":875,"kind":"place","name":"Clinic roof north stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Clinic roof north stair. Bess keeps the barrel for the hold. 6 steps, arc on the left lane, open."}
+{"n":876,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, north stair. arc left open. 7 steps. The barrel stays for the hold."}
+{"n":877,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the barrel at Switchyard. Nobody past the north stair. We hold in 8 steps. Arc on the left lane, open."}
+{"n":878,"kind":"place","name":"Switchyard north stair","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Switchyard north stair. Matt keeps the barrel for the hold. 2 steps, arc on the left lane, open."}
