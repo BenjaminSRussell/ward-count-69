@@ -753,3 +753,6 @@
 {"n":753,"kind":"place","name":"the pier north roof","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the pier north roof. Nia keeps the hydrant for the hold. 2 steps, arc on the left lane, open."}
 {"n":754,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north roof. arc left open. 3 steps. The hydrant stays for the hold."}
 {"n":755,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at the pier. Nobody past the north roof. We hold in 4 steps. Arc on the left lane, open."}
+{"n":756,"kind":"place","name":"the pier north roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier north roof. Ivo keeps the hydrant for the hold. 5 steps, arc on the left lane, open."}
+{"n":757,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north roof. arc left open. 6 steps. The hydrant stays for the hold."}
+{"n":758,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at the pier. Nobody past the north roof. We hold in 7 steps. Arc on the left lane, open."}
