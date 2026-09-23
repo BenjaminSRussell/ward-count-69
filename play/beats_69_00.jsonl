@@ -911,3 +911,6 @@
 {"n":911,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at Ward gate. Nobody past the east stair. We hold in 8 steps. Arc on the left lane, open."}
 {"n":912,"kind":"place","name":"Ward gate east stair","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Ward gate east stair. Ivo keeps the drum for the hold. 2 steps, arc on the left lane, open."}
 {"n":913,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, east stair. arc left open. 3 steps. The drum stays for the hold."}
+{"n":914,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at Ward gate. Nobody past the east stair. We hold in 4 steps. Arc on the left lane, open."}
+{"n":915,"kind":"place","name":"Ward gate east stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Ward gate east stair. Bess keeps the drum for the hold. 5 steps, arc on the left lane, open."}
+{"n":916,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, east stair. arc left open. 6 steps. The drum stays for the hold."}
