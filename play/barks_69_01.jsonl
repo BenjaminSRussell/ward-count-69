@@ -947,3 +947,6 @@
 {"n":947,"kind":"place","name":"the Lot north stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot north stair. Bess keeps the crate for the hold. 8 steps, arc on the left lane, open."}
 {"n":948,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north stair. arc left open. 2 steps. The crate stays for the hold."}
 {"n":949,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the crate at Stockyard fence. Nobody past the north stair. We hold in 3 steps. Arc on the left lane, open."}
+{"n":950,"kind":"place","name":"Stockyard fence north stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence north stair. Matt keeps the crate for the hold. 4 steps, arc on the left lane, open."}
+{"n":951,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north stair. arc left open. 5 steps. The crate stays for the hold."}
+{"n":952,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the crate at Stockyard fence. Nobody past the north stair. We hold in 6 steps. Arc on the left lane, open."}
