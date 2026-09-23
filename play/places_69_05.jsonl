@@ -185,3 +185,6 @@
 {"n":185,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south stair. arc left open. 5 steps. The badge door stays for the hold."}
 {"n":186,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the badge door at Mast yard. Nobody past the south stair. We hold in 6 steps. Arc on the left lane, open."}
 {"n":187,"kind":"place","name":"Mast yard south stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard south stair. Bess keeps the badge door for the hold. 7 steps, arc on the left lane, open."}
+{"n":188,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south stair. arc left open. 8 steps. The badge door stays for the hold."}
+{"n":189,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the badge door at Last Light. Nobody past the south stair. We hold in 2 steps. Arc on the left lane, open."}
+{"n":190,"kind":"place","name":"Last Light south stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light south stair. Matt keeps the badge door for the hold. 3 steps, arc on the left lane, open."}
