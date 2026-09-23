@@ -535,3 +535,6 @@
 {"n":535,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north roof. arc left open. 8 steps. The plywood stays for the hold."}
 {"n":536,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the plywood at the Underpass. Nobody past the north roof. We hold in 2 steps. Arc on the left lane, open."}
 {"n":537,"kind":"place","name":"the Underpass north roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass north roof. Nia keeps the plywood for the hold. 3 steps, arc on the left lane, open."}
+{"n":538,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, north roof. arc left open. 4 steps. The plywood stays for the hold."}
+{"n":539,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the plywood at the Underpass. Nobody past the north roof. We hold in 5 steps. Arc on the left lane, open."}
+{"n":540,"kind":"place","name":"the Underpass north roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass north roof. Ivo keeps the plywood for the hold. 6 steps, arc on the left lane, open."}
