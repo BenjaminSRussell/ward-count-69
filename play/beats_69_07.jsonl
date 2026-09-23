@@ -424,3 +424,6 @@
 {"n":424,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the radio coil at Switchyard. Nobody past the west roof. We hold in 4 steps. Arc on the left lane, open."}
 {"n":425,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard west roof. Nia keeps the radio coil for the hold. 5 steps, arc on the left lane, open."}
 {"n":426,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west roof. arc left open. 6 steps. The radio coil stays for the hold."}
+{"n":427,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the radio coil at Switchyard. Nobody past the west roof. We hold in 7 steps. Arc on the left lane, open."}
+{"n":428,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard west roof. Ivo keeps the radio coil for the hold. 8 steps, arc on the left lane, open."}
+{"n":429,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west roof. arc left open. 2 steps. The radio coil stays for the hold."}
