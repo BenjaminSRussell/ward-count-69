@@ -378,3 +378,6 @@
 {"n":378,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at South stair. Nobody past the south stair. We hold in 2 steps. Arc on the left lane, open."}
 {"n":379,"kind":"place","name":"South stair south stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair south stair. Bess keeps the radio coil for the hold. 3 steps, arc on the left lane, open."}
 {"n":380,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south stair. arc left open. 4 steps. The radio coil stays for the hold."}
+{"n":381,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the radio coil at the pier. Nobody past the south stair. We hold in 5 steps. Arc on the left lane, open."}
+{"n":382,"kind":"place","name":"the pier south stair","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the pier south stair. Matt keeps the radio coil for the hold. 6 steps, arc on the left lane, open."}
+{"n":383,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south stair. arc left open. 7 steps. The radio coil stays for the hold."}
