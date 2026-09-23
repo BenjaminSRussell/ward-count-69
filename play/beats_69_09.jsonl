@@ -734,3 +734,6 @@
 {"n":734,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at Last Light. Nobody past the north roof. We hold in 4 steps. Arc on the left lane, open."}
 {"n":735,"kind":"place","name":"Last Light north roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Last Light north roof. Bess keeps the hydrant for the hold. 5 steps, arc on the left lane, open."}
 {"n":736,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north roof. arc left open. 6 steps. The hydrant stays for the hold."}
+{"n":737,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the hydrant at South stair. Nobody past the north roof. We hold in 7 steps. Arc on the left lane, open."}
+{"n":738,"kind":"place","name":"South stair north roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"South stair north roof. Matt keeps the hydrant for the hold. 8 steps, arc on the left lane, open."}
+{"n":739,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north roof. arc left open. 2 steps. The hydrant stays for the hold."}
