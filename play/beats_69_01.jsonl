@@ -775,3 +775,6 @@
 {"n":775,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the barrel at the Lot. Nobody past the north stair. We hold in 4 steps. Arc on the left lane, open."}
 {"n":776,"kind":"place","name":"the Lot north stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot north stair. Ivo keeps the barrel for the hold. 5 steps, arc on the left lane, open."}
 {"n":777,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north stair. arc left open. 6 steps. The barrel stays for the hold."}
+{"n":778,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at the Lot. Nobody past the north stair. We hold in 7 steps. Arc on the left lane, open."}
+{"n":779,"kind":"place","name":"the Lot north stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot north stair. Bess keeps the barrel for the hold. 8 steps, arc on the left lane, open."}
+{"n":780,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north stair. arc left open. 2 steps. The barrel stays for the hold."}
