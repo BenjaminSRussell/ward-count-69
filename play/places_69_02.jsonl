@@ -152,3 +152,6 @@
 {"n":152,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, north stair. arc left open. 3 steps. The lamp stays for the hold."}
 {"n":153,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the lamp at Mast yard. Nobody past the north stair. We hold in 4 steps. Arc on the left lane, open."}
 {"n":154,"kind":"place","name":"Mast yard north stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mast yard north stair. Matt keeps the lamp for the hold. 5 steps, arc on the left lane, open."}
+{"n":155,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, north stair. arc left open. 6 steps. The lamp stays for the hold."}
+{"n":156,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the lamp at Mast yard. Nobody past the north stair. We hold in 7 steps. Arc on the left lane, open."}
+{"n":157,"kind":"place","name":"Mast yard north stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard north stair. Nia keeps the lamp for the hold. 8 steps, arc on the left lane, open."}
