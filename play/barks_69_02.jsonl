@@ -397,3 +397,6 @@
 {"n":397,"kind":"place","name":"Drydock north stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock north stair. Nia keeps the rebar for the hold. 3 steps, arc on the left lane, open."}
 {"n":398,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north stair. arc left open. 4 steps. The rebar stays for the hold."}
 {"n":399,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rebar at Drydock. Nobody past the north stair. We hold in 5 steps. Arc on the left lane, open."}
+{"n":400,"kind":"place","name":"Drydock north stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock north stair. Ivo keeps the rebar for the hold. 6 steps, arc on the left lane, open."}
+{"n":401,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north stair. arc left open. 7 steps. The rebar stays for the hold."}
+{"n":402,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at Drydock. Nobody past the north stair. We hold in 8 steps. Arc on the left lane, open."}
