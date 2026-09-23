@@ -108,3 +108,6 @@
 {"n":108,"kind":"place","name":"Stockyard fence east stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence east stair. Ivo keeps the lamp for the hold. 3 steps, arc on the left lane, open."}
 {"n":109,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east stair. arc left open. 4 steps. The lamp stays for the hold."}
 {"n":110,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at Stockyard fence. Nobody past the east stair. We hold in 5 steps. Arc on the left lane, open."}
+{"n":111,"kind":"place","name":"Stockyard fence east stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Stockyard fence east stair. Bess keeps the lamp for the hold. 6 steps, arc on the left lane, open."}
+{"n":112,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, east stair. arc left open. 7 steps. The lamp stays for the hold."}
+{"n":113,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the lamp at Mall court. Nobody past the east stair. We hold in 8 steps. Arc on the left lane, open."}
