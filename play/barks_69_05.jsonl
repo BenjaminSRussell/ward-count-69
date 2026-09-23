@@ -100,3 +100,6 @@
 {"n":100,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line south stair. Ivo keeps the drum for the hold. 4 steps, arc on the left lane, open."}
 {"n":101,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south stair. arc left open. 5 steps. The drum stays for the hold."}
 {"n":102,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at High line. Nobody past the south stair. We hold in 6 steps. Arc on the left lane, open."}
+{"n":103,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line south stair. Bess keeps the drum for the hold. 7 steps, arc on the left lane, open."}
+{"n":104,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south stair. arc left open. 8 steps. The drum stays for the hold."}
+{"n":105,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the badge door at Ward gate. Nobody past the south stair. We hold in 2 steps. Arc on the left lane, open."}
