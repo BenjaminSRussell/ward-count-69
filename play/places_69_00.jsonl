@@ -481,3 +481,6 @@
 {"n":481,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east stair. arc left open. 5 steps. The rope stays for the hold."}
 {"n":482,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rope at Mast yard. Nobody past the east stair. We hold in 6 steps. Arc on the left lane, open."}
 {"n":483,"kind":"place","name":"Mast yard east stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard east stair. Bess keeps the rope for the hold. 7 steps, arc on the left lane, open."}
+{"n":484,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east stair. arc left open. 8 steps. The rope stays for the hold."}
+{"n":485,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rope at Last Light. Nobody past the east stair. We hold in 2 steps. Arc on the left lane, open."}
+{"n":486,"kind":"place","name":"Last Light east stair","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light east stair. Matt keeps the rope for the hold. 3 steps, arc on the left lane, open."}
