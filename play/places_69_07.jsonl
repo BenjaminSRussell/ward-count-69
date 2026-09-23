@@ -855,3 +855,6 @@
 {"n":855,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east roof. arc left open. 8 steps. The barrel stays for the hold."}
 {"n":856,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the barrel at the Underpass. Nobody past the east roof. We hold in 2 steps. Arc on the left lane, open."}
 {"n":857,"kind":"place","name":"the Underpass east roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass east roof. Nia keeps the barrel for the hold. 3 steps, arc on the left lane, open."}
+{"n":858,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east roof. arc left open. 4 steps. The barrel stays for the hold."}
+{"n":859,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the barrel at the Underpass. Nobody past the east roof. We hold in 5 steps. Arc on the left lane, open."}
+{"n":860,"kind":"place","name":"the Underpass east roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass east roof. Ivo keeps the barrel for the hold. 6 steps, arc on the left lane, open."}
