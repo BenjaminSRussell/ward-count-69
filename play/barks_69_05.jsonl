@@ -766,3 +766,6 @@
 {"n":766,"kind":"place","name":"High line west roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"High line west roof. Matt keeps the hydrant for the hold. 5 steps, arc on the left lane, open."}
 {"n":767,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west roof. arc left open. 6 steps. The hydrant stays for the hold."}
 {"n":768,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the hydrant at High line. Nobody past the west roof. We hold in 7 steps. Arc on the left lane, open."}
+{"n":769,"kind":"place","name":"High line west roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"High line west roof. Nia keeps the hydrant for the hold. 8 steps, arc on the left lane, open."}
+{"n":770,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west roof. arc left open. 2 steps. The hydrant stays for the hold."}
+{"n":771,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at High line. Nobody past the west roof. We hold in 3 steps. Arc on the left lane, open."}
