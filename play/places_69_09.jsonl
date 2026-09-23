@@ -10,3 +10,6 @@
 {"n":10,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east roof. arc left open. 8 steps. The drum stays for the hold."}
 {"n":11,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at Stockyard fence. Nobody past the east roof. We hold in 2 steps. Arc on the left lane, open."}
 {"n":12,"kind":"place","name":"Stockyard fence east roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence east roof. Ivo keeps the drum for the hold. 3 steps, arc on the left lane, open."}
+{"n":13,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east roof. arc left open. 4 steps. The drum stays for the hold."}
+{"n":14,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at Stockyard fence. Nobody past the east roof. We hold in 5 steps. Arc on the left lane, open."}
+{"n":15,"kind":"place","name":"Stockyard fence east roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Stockyard fence east roof. Bess keeps the drum for the hold. 6 steps, arc on the left lane, open."}
