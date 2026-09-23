@@ -597,3 +597,6 @@
 {"n":597,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east roof. arc left open. 2 steps. The plywood stays for the hold."}
 {"n":598,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the plywood at Switchyard. Nobody past the east roof. We hold in 3 steps. Arc on the left lane, open."}
 {"n":599,"kind":"place","name":"Switchyard east roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard east roof. Bess keeps the plywood for the hold. 4 steps, arc on the left lane, open."}
+{"n":600,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east roof. arc left open. 5 steps. The plywood stays for the hold."}
+{"n":601,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the plywood at Drydock. Nobody past the east roof. We hold in 6 steps. Arc on the left lane, open."}
+{"n":602,"kind":"place","name":"Drydock east roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock east roof. Matt keeps the plywood for the hold. 7 steps, arc on the left lane, open."}
