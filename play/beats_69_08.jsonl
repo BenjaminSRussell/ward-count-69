@@ -372,3 +372,6 @@
 {"n":372,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the rebar at Mast yard. Nobody past the east roof. We hold in 7 steps. Arc on the left lane, open."}
 {"n":373,"kind":"place","name":"Mast yard east roof","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mast yard east roof. Nia keeps the rebar for the hold. 8 steps, arc on the left lane, open."}
 {"n":374,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east roof. arc left open. 2 steps. The rebar stays for the hold."}
+{"n":375,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rebar at Mast yard. Nobody past the east roof. We hold in 3 steps. Arc on the left lane, open."}
+{"n":376,"kind":"place","name":"Mast yard east roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard east roof. Ivo keeps the rebar for the hold. 4 steps, arc on the left lane, open."}
+{"n":377,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east roof. arc left open. 5 steps. The rebar stays for the hold."}
