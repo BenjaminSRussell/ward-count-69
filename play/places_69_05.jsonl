@@ -746,3 +746,6 @@
 {"n":746,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west roof. arc left open. 6 steps. The hydrant stays for the hold."}
 {"n":747,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at Switchyard. Nobody past the west roof. We hold in 7 steps. Arc on the left lane, open."}
 {"n":748,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard west roof. Ivo keeps the hydrant for the hold. 8 steps, arc on the left lane, open."}
+{"n":749,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west roof. arc left open. 2 steps. The hydrant stays for the hold."}
+{"n":750,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at Switchyard. Nobody past the west roof. We hold in 3 steps. Arc on the left lane, open."}
+{"n":751,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard west roof. Bess keeps the hydrant for the hold. 4 steps, arc on the left lane, open."}
