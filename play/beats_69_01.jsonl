@@ -58,3 +58,6 @@
 {"n":58,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at Drydock. Nobody past the east stair. We hold in 8 steps. Arc on the left lane, open."}
 {"n":59,"kind":"place","name":"Drydock east stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock east stair. Bess keeps the drum for the hold. 2 steps, arc on the left lane, open."}
 {"n":60,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east stair. arc left open. 3 steps. The drum stays for the hold."}
+{"n":61,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the drum at High line. Nobody past the east stair. We hold in 4 steps. Arc on the left lane, open."}
+{"n":62,"kind":"place","name":"High line east stair","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line east stair. Matt keeps the drum for the hold. 5 steps, arc on the left lane, open."}
+{"n":63,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east stair. arc left open. 6 steps. The drum stays for the hold."}
