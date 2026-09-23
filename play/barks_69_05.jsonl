@@ -577,3 +577,6 @@
 {"n":577,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard west roof. Nia keeps the plywood for the hold. 5 steps, arc on the left lane, open."}
 {"n":578,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west roof. arc left open. 6 steps. The plywood stays for the hold."}
 {"n":579,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the plywood at Switchyard. Nobody past the west roof. We hold in 7 steps. Arc on the left lane, open."}
+{"n":580,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard west roof. Ivo keeps the plywood for the hold. 8 steps, arc on the left lane, open."}
+{"n":581,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west roof. arc left open. 2 steps. The plywood stays for the hold."}
+{"n":582,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the plywood at Switchyard. Nobody past the west roof. We hold in 3 steps. Arc on the left lane, open."}
