@@ -309,3 +309,6 @@
 {"n":309,"kind":"place","name":"Ward gate east roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Ward gate east roof. Nia keeps the radio coil for the hold. 6 steps, arc on the left lane, open."}
 {"n":310,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, east roof. arc left open. 7 steps. The radio coil stays for the hold."}
 {"n":311,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the radio coil at Ward gate. Nobody past the east roof. We hold in 8 steps. Arc on the left lane, open."}
+{"n":312,"kind":"place","name":"Ward gate east roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Ward gate east roof. Ivo keeps the radio coil for the hold. 2 steps, arc on the left lane, open."}
+{"n":313,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, east roof. arc left open. 3 steps. The radio coil stays for the hold."}
+{"n":314,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at Ward gate. Nobody past the east roof. We hold in 4 steps. Arc on the left lane, open."}
