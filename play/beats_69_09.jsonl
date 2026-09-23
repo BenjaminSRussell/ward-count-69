@@ -848,3 +848,6 @@
 {"n":848,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the barrel at Stockyard fence. Nobody past the north roof. We hold in 6 steps. Arc on the left lane, open."}
 {"n":849,"kind":"place","name":"Stockyard fence north roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence north roof. Nia keeps the barrel for the hold. 7 steps, arc on the left lane, open."}
 {"n":850,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north roof. arc left open. 8 steps. The barrel stays for the hold."}
+{"n":851,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the barrel at Stockyard fence. Nobody past the north roof. We hold in 2 steps. Arc on the left lane, open."}
+{"n":852,"kind":"place","name":"Stockyard fence north roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence north roof. Ivo keeps the barrel for the hold. 3 steps, arc on the left lane, open."}
+{"n":853,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north roof. arc left open. 4 steps. The barrel stays for the hold."}
