@@ -67,3 +67,6 @@
 {"n":67,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east stair. arc left open. 4 steps. The lamp stays for the hold."}
 {"n":68,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the lamp at Ward gate. Nobody past the east stair. We hold in 5 steps. Arc on the left lane, open."}
 {"n":69,"kind":"place","name":"Ward gate east stair","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Ward gate east stair. Nia keeps the lamp for the hold. 6 steps, arc on the left lane, open."}
+{"n":70,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, east stair. arc left open. 7 steps. The lamp stays for the hold."}
+{"n":71,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the lamp at Ward gate. Nobody past the east stair. We hold in 8 steps. Arc on the left lane, open."}
+{"n":72,"kind":"place","name":"Ward gate east stair","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Ward gate east stair. Ivo keeps the lamp for the hold. 2 steps, arc on the left lane, open."}
