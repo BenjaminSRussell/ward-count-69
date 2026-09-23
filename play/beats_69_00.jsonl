@@ -128,3 +128,6 @@
 {"n":128,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the lamp at the Underpass. Nobody past the east stair. We hold in 2 steps. Arc on the left lane, open."}
 {"n":129,"kind":"place","name":"the Underpass east stair","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Underpass east stair. Nia keeps the lamp for the hold. 3 steps, arc on the left lane, open."}
 {"n":130,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east stair. arc left open. 4 steps. The lamp stays for the hold."}
+{"n":131,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the lamp at the Underpass. Nobody past the east stair. We hold in 5 steps. Arc on the left lane, open."}
+{"n":132,"kind":"place","name":"the Underpass east stair","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass east stair. Ivo keeps the lamp for the hold. 6 steps, arc on the left lane, open."}
+{"n":133,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east stair. arc left open. 7 steps. The lamp stays for the hold."}
