@@ -856,3 +856,6 @@
 {"n":856,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the barrel at the pier. Nobody past the north stair. We hold in 8 steps. Arc on the left lane, open."}
 {"n":857,"kind":"place","name":"the pier north stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the pier north stair. Nia keeps the barrel for the hold. 2 steps, arc on the left lane, open."}
 {"n":858,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north stair. arc left open. 3 steps. The barrel stays for the hold."}
+{"n":859,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the barrel at the pier. Nobody past the north stair. We hold in 4 steps. Arc on the left lane, open."}
+{"n":860,"kind":"place","name":"the pier north stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier north stair. Ivo keeps the barrel for the hold. 5 steps, arc on the left lane, open."}
+{"n":861,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north stair. arc left open. 6 steps. The barrel stays for the hold."}
