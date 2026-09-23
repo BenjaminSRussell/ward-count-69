@@ -349,3 +349,6 @@
 {"n":349,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the radio coil at the pier. Nobody past the east stair. We hold in 5 steps. Arc on the left lane, open."}
 {"n":350,"kind":"place","name":"the pier east stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier east stair. Matt keeps the radio coil for the hold. 6 steps, arc on the left lane, open."}
 {"n":351,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east stair. arc left open. 7 steps. The radio coil stays for the hold."}
+{"n":352,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the radio coil at the pier. Nobody past the east stair. We hold in 8 steps. Arc on the left lane, open."}
+{"n":353,"kind":"place","name":"the pier east stair","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the pier east stair. Nia keeps the radio coil for the hold. 2 steps, arc on the left lane, open."}
+{"n":354,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, east stair. arc left open. 3 steps. The radio coil stays for the hold."}
