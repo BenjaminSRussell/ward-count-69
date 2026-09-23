@@ -736,3 +736,6 @@
 {"n":736,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east stair. arc left open. 8 steps. The shutter stays for the hold."}
 {"n":737,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the awning at Ward gate. Nobody past the east stair. We hold in 2 steps. Arc on the left lane, open."}
 {"n":738,"kind":"place","name":"Ward gate east stair","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate east stair. Matt keeps the awning for the hold. 3 steps, arc on the left lane, open."}
+{"n":739,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east stair. arc left open. 4 steps. The awning stays for the hold."}
+{"n":740,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the awning at Ward gate. Nobody past the east stair. We hold in 5 steps. Arc on the left lane, open."}
+{"n":741,"kind":"place","name":"Ward gate east stair","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Ward gate east stair. Nia keeps the awning for the hold. 6 steps, arc on the left lane, open."}
