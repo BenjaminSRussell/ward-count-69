@@ -76,3 +76,6 @@
 {"n":76,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the drum at Clinic roof. Nobody past the west roof. We hold in 6 steps. Arc on the left lane, open."}
 {"n":77,"kind":"place","name":"Clinic roof west roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof west roof. Nia keeps the drum for the hold. 7 steps, arc on the left lane, open."}
 {"n":78,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, west roof. arc left open. 8 steps. The drum stays for the hold."}
+{"n":79,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at Clinic roof. Nobody past the west roof. We hold in 2 steps. Arc on the left lane, open."}
+{"n":80,"kind":"place","name":"Clinic roof west roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof west roof. Ivo keeps the drum for the hold. 3 steps, arc on the left lane, open."}
+{"n":81,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west roof. arc left open. 4 steps. The drum stays for the hold."}
