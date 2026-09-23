@@ -334,3 +334,6 @@
 {"n":334,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, east stair. arc left open. 5 steps. The rebar stays for the hold."}
 {"n":335,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rebar at South stair. Nobody past the east stair. We hold in 6 steps. Arc on the left lane, open."}
 {"n":336,"kind":"place","name":"South stair east stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"South stair east stair. Ivo keeps the rebar for the hold. 7 steps, arc on the left lane, open."}
+{"n":337,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east stair. arc left open. 8 steps. The rebar stays for the hold."}
+{"n":338,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at South stair. Nobody past the east stair. We hold in 2 steps. Arc on the left lane, open."}
+{"n":339,"kind":"place","name":"South stair east stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair east stair. Bess keeps the rebar for the hold. 3 steps, arc on the left lane, open."}
