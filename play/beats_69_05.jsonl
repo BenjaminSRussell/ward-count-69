@@ -132,3 +132,6 @@
 {"n":132,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the badge door at the Lot. Nobody past the south stair. We hold in 8 steps. Arc on the left lane, open."}
 {"n":133,"kind":"place","name":"the Lot south stair","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Lot south stair. Nia keeps the badge door for the hold. 2 steps, arc on the left lane, open."}
 {"n":134,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south stair. arc left open. 3 steps. The badge door stays for the hold."}
+{"n":135,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the badge door at the Lot. Nobody past the south stair. We hold in 4 steps. Arc on the left lane, open."}
+{"n":136,"kind":"place","name":"the Lot south stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot south stair. Ivo keeps the badge door for the hold. 5 steps, arc on the left lane, open."}
+{"n":137,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south stair. arc left open. 6 steps. The badge door stays for the hold."}
