@@ -60,3 +60,6 @@
 {"n":60,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the drum at Clinic roof. Nobody past the south stair. We hold in 6 steps. Arc on the left lane, open."}
 {"n":61,"kind":"place","name":"Clinic roof south stair","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Clinic roof south stair. Nia keeps the drum for the hold. 7 steps, arc on the left lane, open."}
 {"n":62,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south stair. arc left open. 8 steps. The drum stays for the hold."}
+{"n":63,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at Clinic roof. Nobody past the south stair. We hold in 2 steps. Arc on the left lane, open."}
+{"n":64,"kind":"place","name":"Clinic roof south stair","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Clinic roof south stair. Ivo keeps the drum for the hold. 3 steps, arc on the left lane, open."}
+{"n":65,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south stair. arc left open. 4 steps. The drum stays for the hold."}
