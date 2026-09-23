@@ -238,3 +238,6 @@
 {"n":238,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the badge door at High line. Nobody past the east stair. We hold in 6 steps. Arc on the left lane, open."}
 {"n":239,"kind":"place","name":"High line east stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line east stair. Bess keeps the badge door for the hold. 7 steps, arc on the left lane, open."}
 {"n":240,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east stair. arc left open. 8 steps. The badge door stays for the hold."}
+{"n":241,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the radio coil at Ward gate. Nobody past the east stair. We hold in 2 steps. Arc on the left lane, open."}
+{"n":242,"kind":"place","name":"Ward gate east stair","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate east stair. Matt keeps the radio coil for the hold. 3 steps, arc on the left lane, open."}
+{"n":243,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east stair. arc left open. 4 steps. The radio coil stays for the hold."}
