@@ -520,3 +520,6 @@
 {"n":520,"kind":"place","name":"Mast yard west roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard west roof. Ivo keeps the plywood for the hold. 4 steps, arc on the left lane, open."}
 {"n":521,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west roof. arc left open. 5 steps. The plywood stays for the hold."}
 {"n":522,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the plywood at Mast yard. Nobody past the west roof. We hold in 6 steps. Arc on the left lane, open."}
+{"n":523,"kind":"place","name":"Mast yard west roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard west roof. Bess keeps the plywood for the hold. 7 steps, arc on the left lane, open."}
+{"n":524,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west roof. arc left open. 8 steps. The plywood stays for the hold."}
+{"n":525,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the plywood at Last Light. Nobody past the west roof. We hold in 2 steps. Arc on the left lane, open."}
