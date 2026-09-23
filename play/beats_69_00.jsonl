@@ -980,3 +980,6 @@
 {"n":980,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the drum at Mast yard. Nobody past the east stair. We hold in 7 steps. Arc on the left lane, open."}
 {"n":981,"kind":"place","name":"Mast yard east stair","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Mast yard east stair. Nia keeps the drum for the hold. 8 steps, arc on the left lane, open."}
 {"n":982,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east stair. arc left open. 2 steps. The drum stays for the hold."}
+{"n":983,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at Mast yard. Nobody past the east stair. We hold in 3 steps. Arc on the left lane, open."}
+{"n":984,"kind":"place","name":"Mast yard east stair","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mast yard east stair. Ivo keeps the drum for the hold. 4 steps, arc on the left lane, open."}
+{"n":985,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east stair. arc left open. 5 steps. The drum stays for the hold."}
