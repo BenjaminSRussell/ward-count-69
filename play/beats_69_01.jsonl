@@ -28,3 +28,6 @@
 {"n":28,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the drum at Clinic roof. Nobody past the east stair. We hold in 6 steps. Arc on the left lane, open."}
 {"n":29,"kind":"place","name":"Clinic roof east stair","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Clinic roof east stair. Nia keeps the drum for the hold. 7 steps, arc on the left lane, open."}
 {"n":30,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, east stair. arc left open. 8 steps. The drum stays for the hold."}
+{"n":31,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at Clinic roof. Nobody past the east stair. We hold in 2 steps. Arc on the left lane, open."}
+{"n":32,"kind":"place","name":"Clinic roof east stair","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Clinic roof east stair. Ivo keeps the drum for the hold. 3 steps, arc on the left lane, open."}
+{"n":33,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, east stair. arc left open. 4 steps. The drum stays for the hold."}
