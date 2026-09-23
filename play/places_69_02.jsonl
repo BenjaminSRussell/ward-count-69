@@ -764,3 +764,6 @@
 {"n":764,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north stair. arc left open. 6 steps. The awning stays for the hold."}
 {"n":765,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the awning at Kessler alley. Nobody past the north stair. We hold in 7 steps. Arc on the left lane, open."}
 {"n":766,"kind":"place","name":"Kessler alley north stair","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Kessler alley north stair. Matt keeps the awning for the hold. 8 steps, arc on the left lane, open."}
+{"n":767,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north stair. arc left open. 2 steps. The awning stays for the hold."}
+{"n":768,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the awning at Kessler alley. Nobody past the north stair. We hold in 3 steps. Arc on the left lane, open."}
+{"n":769,"kind":"place","name":"Kessler alley north stair","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Kessler alley north stair. Nia keeps the awning for the hold. 4 steps, arc on the left lane, open."}
