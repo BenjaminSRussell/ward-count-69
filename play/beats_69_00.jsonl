@@ -395,3 +395,6 @@
 {"n":395,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rebar at High line. Nobody past the east stair. We hold in 3 steps. Arc on the left lane, open."}
 {"n":396,"kind":"place","name":"High line east stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line east stair. Ivo keeps the rebar for the hold. 4 steps, arc on the left lane, open."}
 {"n":397,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east stair. arc left open. 5 steps. The rebar stays for the hold."}
+{"n":398,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at High line. Nobody past the east stair. We hold in 6 steps. Arc on the left lane, open."}
+{"n":399,"kind":"place","name":"High line east stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line east stair. Bess keeps the rebar for the hold. 7 steps, arc on the left lane, open."}
+{"n":400,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east stair. arc left open. 8 steps. The rebar stays for the hold."}
