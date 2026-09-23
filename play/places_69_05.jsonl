@@ -248,3 +248,6 @@
 {"n":248,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south stair. arc left open. 5 steps. The badge door stays for the hold."}
 {"n":249,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the badge door at Drydock. Nobody past the south stair. We hold in 6 steps. Arc on the left lane, open."}
 {"n":250,"kind":"place","name":"Drydock south stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock south stair. Matt keeps the badge door for the hold. 7 steps, arc on the left lane, open."}
+{"n":251,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south stair. arc left open. 8 steps. The badge door stays for the hold."}
+{"n":252,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the badge door at Drydock. Nobody past the south stair. We hold in 2 steps. Arc on the left lane, open."}
+{"n":253,"kind":"place","name":"Drydock south stair","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock south stair. Nia keeps the badge door for the hold. 3 steps, arc on the left lane, open."}
