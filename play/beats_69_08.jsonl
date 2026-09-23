@@ -819,3 +819,6 @@
 {"n":819,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the awning at Kessler alley. Nobody past the east roof. We hold in 6 steps. Arc on the left lane, open."}
 {"n":820,"kind":"place","name":"Kessler alley east roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley east roof. Ivo keeps the awning for the hold. 7 steps, arc on the left lane, open."}
 {"n":821,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east roof. arc left open. 8 steps. The awning stays for the hold."}
+{"n":822,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the awning at Kessler alley. Nobody past the east roof. We hold in 2 steps. Arc on the left lane, open."}
+{"n":823,"kind":"place","name":"Kessler alley east roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley east roof. Bess keeps the awning for the hold. 3 steps, arc on the left lane, open."}
+{"n":824,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east roof. arc left open. 4 steps. The awning stays for the hold."}
