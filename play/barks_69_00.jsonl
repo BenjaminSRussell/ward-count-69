@@ -30,3 +30,6 @@
 {"n":30,"kind":"place","name":"Switchyard east stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Switchyard east stair. Matt keeps the crate for the hold. 2 steps, arc on the left lane, open."}
 {"n":31,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east stair. arc left open. 3 steps. The crate stays for the hold."}
 {"n":32,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the crate at Switchyard. Nobody past the east stair. We hold in 4 steps. Arc on the left lane, open."}
+{"n":33,"kind":"place","name":"Switchyard east stair","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Switchyard east stair. Nia keeps the crate for the hold. 5 steps, arc on the left lane, open."}
+{"n":34,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east stair. arc left open. 6 steps. The crate stays for the hold."}
+{"n":35,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the crate at Switchyard. Nobody past the east stair. We hold in 7 steps. Arc on the left lane, open."}
