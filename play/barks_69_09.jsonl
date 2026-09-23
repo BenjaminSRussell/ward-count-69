@@ -384,3 +384,6 @@
 {"n":384,"kind":"place","name":"Mast yard east roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mast yard east roof. Ivo keeps the radio coil for the hold. 4 steps, arc on the left lane, open."}
 {"n":385,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east roof. arc left open. 5 steps. The radio coil stays for the hold."}
 {"n":386,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at Mast yard. Nobody past the east roof. We hold in 6 steps. Arc on the left lane, open."}
+{"n":387,"kind":"place","name":"Mast yard east roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard east roof. Bess keeps the radio coil for the hold. 7 steps, arc on the left lane, open."}
+{"n":388,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east roof. arc left open. 8 steps. The radio coil stays for the hold."}
+{"n":389,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the radio coil at Last Light. Nobody past the east roof. We hold in 2 steps. Arc on the left lane, open."}
