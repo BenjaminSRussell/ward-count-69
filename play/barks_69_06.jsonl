@@ -732,3 +732,6 @@
 {"n":732,"kind":"place","name":"the pier west roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the pier west roof. Ivo keeps the shutter for the hold. 5 steps, arc on the left lane, open."}
 {"n":733,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, west roof. arc left open. 6 steps. The shutter stays for the hold."}
 {"n":734,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at the pier. Nobody past the west roof. We hold in 7 steps. Arc on the left lane, open."}
+{"n":735,"kind":"place","name":"the pier west roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier west roof. Bess keeps the shutter for the hold. 8 steps, arc on the left lane, open."}
+{"n":736,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west roof. arc left open. 2 steps. The shutter stays for the hold."}
+{"n":737,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the shutter at Clinic roof. Nobody past the west roof. We hold in 3 steps. Arc on the left lane, open."}
