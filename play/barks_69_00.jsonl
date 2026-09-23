@@ -945,3 +945,6 @@
 {"n":945,"kind":"place","name":"Stockyard fence east stair","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence east stair. Nia keeps the drum for the hold. 7 steps, arc on the left lane, open."}
 {"n":946,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east stair. arc left open. 8 steps. The drum stays for the hold."}
 {"n":947,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at Stockyard fence. Nobody past the east stair. We hold in 2 steps. Arc on the left lane, open."}
+{"n":948,"kind":"place","name":"Stockyard fence east stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence east stair. Ivo keeps the drum for the hold. 3 steps, arc on the left lane, open."}
+{"n":949,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east stair. arc left open. 4 steps. The drum stays for the hold."}
+{"n":950,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at Stockyard fence. Nobody past the east stair. We hold in 5 steps. Arc on the left lane, open."}
