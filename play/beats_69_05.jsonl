@@ -834,3 +834,6 @@
 {"n":834,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at Mall court. Nobody past the west roof. We hold in 3 steps. Arc on the left lane, open."}
 {"n":835,"kind":"place","name":"Mall court west roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mall court west roof. Bess keeps the barrel for the hold. 4 steps, arc on the left lane, open."}
 {"n":836,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west roof. arc left open. 5 steps. The barrel stays for the hold."}
+{"n":837,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the barrel at the Underpass. Nobody past the west roof. We hold in 6 steps. Arc on the left lane, open."}
+{"n":838,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Underpass west roof. Matt keeps the barrel for the hold. 7 steps, arc on the left lane, open."}
+{"n":839,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west roof. arc left open. 8 steps. The barrel stays for the hold."}
