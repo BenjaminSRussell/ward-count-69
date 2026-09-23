@@ -213,3 +213,6 @@
 {"n":213,"kind":"place","name":"Drydock east stair","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock east stair. Nia keeps the lamp for the hold. 3 steps, arc on the left lane, open."}
 {"n":214,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, east stair. arc left open. 4 steps. The lamp stays for the hold."}
 {"n":215,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the lamp at Drydock. Nobody past the east stair. We hold in 5 steps. Arc on the left lane, open."}
+{"n":216,"kind":"place","name":"Drydock east stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock east stair. Ivo keeps the lamp for the hold. 6 steps, arc on the left lane, open."}
+{"n":217,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east stair. arc left open. 7 steps. The lamp stays for the hold."}
+{"n":218,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at Drydock. Nobody past the east stair. We hold in 8 steps. Arc on the left lane, open."}
