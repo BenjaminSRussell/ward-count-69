@@ -557,3 +557,6 @@
 {"n":557,"kind":"place","name":"South stair east roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"South stair east roof. Nia keeps the plywood for the hold. 4 steps, arc on the left lane, open."}
 {"n":558,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, east roof. arc left open. 5 steps. The plywood stays for the hold."}
 {"n":559,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the plywood at South stair. Nobody past the east roof. We hold in 6 steps. Arc on the left lane, open."}
+{"n":560,"kind":"place","name":"South stair east roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"South stair east roof. Ivo keeps the plywood for the hold. 7 steps, arc on the left lane, open."}
+{"n":561,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east roof. arc left open. 8 steps. The plywood stays for the hold."}
+{"n":562,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the plywood at South stair. Nobody past the east roof. We hold in 2 steps. Arc on the left lane, open."}
