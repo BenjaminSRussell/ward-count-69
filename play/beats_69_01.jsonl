@@ -94,3 +94,6 @@
 {"n":94,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the badge door at Kessler alley. Nobody past the east stair. We hold in 2 steps. Arc on the left lane, open."}
 {"n":95,"kind":"place","name":"Kessler alley east stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley east stair. Bess keeps the badge door for the hold. 3 steps, arc on the left lane, open."}
 {"n":96,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east stair. arc left open. 4 steps. The badge door stays for the hold."}
+{"n":97,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the badge door at the Lot. Nobody past the east stair. We hold in 5 steps. Arc on the left lane, open."}
+{"n":98,"kind":"place","name":"the Lot east stair","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Lot east stair. Matt keeps the badge door for the hold. 6 steps, arc on the left lane, open."}
+{"n":99,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east stair. arc left open. 7 steps. The badge door stays for the hold."}
