@@ -775,3 +775,6 @@
 {"n":775,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west roof. arc left open. 6 steps. The shutter stays for the hold."}
 {"n":776,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the shutter at High line. Nobody past the west roof. We hold in 7 steps. Arc on the left lane, open."}
 {"n":777,"kind":"place","name":"High line west roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"High line west roof. Nia keeps the shutter for the hold. 8 steps, arc on the left lane, open."}
+{"n":778,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west roof. arc left open. 2 steps. The shutter stays for the hold."}
+{"n":779,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the shutter at High line. Nobody past the west roof. We hold in 3 steps. Arc on the left lane, open."}
+{"n":780,"kind":"place","name":"High line west roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line west roof. Ivo keeps the shutter for the hold. 4 steps, arc on the left lane, open."}
