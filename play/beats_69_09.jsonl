@@ -956,3 +956,6 @@
 {"n":956,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the barrel at Drydock. Nobody past the north roof. We hold in 2 steps. Arc on the left lane, open."}
 {"n":957,"kind":"place","name":"Drydock north roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock north roof. Nia keeps the barrel for the hold. 3 steps, arc on the left lane, open."}
 {"n":958,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north roof. arc left open. 4 steps. The barrel stays for the hold."}
+{"n":959,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the barrel at Drydock. Nobody past the north roof. We hold in 5 steps. Arc on the left lane, open."}
+{"n":960,"kind":"place","name":"Drydock north roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock north roof. Ivo keeps the barrel for the hold. 6 steps, arc on the left lane, open."}
+{"n":961,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north roof. arc left open. 7 steps. The barrel stays for the hold."}
