@@ -994,3 +994,6 @@
 {"n":994,"kind":"place","name":"the Lot east roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot east roof. Matt keeps the drum for the hold. 6 steps, arc on the left lane, open."}
 {"n":995,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east roof. arc left open. 7 steps. The drum stays for the hold."}
 {"n":996,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the drum at the Lot. Nobody past the east roof. We hold in 8 steps. Arc on the left lane, open."}
+{"n":997,"kind":"place","name":"the Lot east roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Lot east roof. Nia keeps the drum for the hold. 2 steps, arc on the left lane, open."}
+{"n":998,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, east roof. arc left open. 3 steps. The drum stays for the hold."}
+{"n":999,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at the Lot. Nobody past the east roof. We hold in 4 steps. Arc on the left lane, open."}
