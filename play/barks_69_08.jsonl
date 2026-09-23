@@ -787,3 +787,6 @@
 {"n":787,"kind":"place","name":"Drydock east roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Drydock east roof. Bess keeps the shutter for the hold. 2 steps, arc on the left lane, open."}
 {"n":788,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east roof. arc left open. 3 steps. The shutter stays for the hold."}
 {"n":789,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the shutter at High line. Nobody past the east roof. We hold in 4 steps. Arc on the left lane, open."}
+{"n":790,"kind":"place","name":"High line east roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line east roof. Matt keeps the shutter for the hold. 5 steps, arc on the left lane, open."}
+{"n":791,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east roof. arc left open. 6 steps. The shutter stays for the hold."}
+{"n":792,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the shutter at High line. Nobody past the east roof. We hold in 7 steps. Arc on the left lane, open."}
