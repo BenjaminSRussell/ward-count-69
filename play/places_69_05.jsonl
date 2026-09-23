@@ -437,3 +437,6 @@
 {"n":437,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south stair. arc left open. 5 steps. The radio coil stays for the hold."}
 {"n":438,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at High line. Nobody past the south stair. We hold in 6 steps. Arc on the left lane, open."}
 {"n":439,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line south stair. Bess keeps the radio coil for the hold. 7 steps, arc on the left lane, open."}
+{"n":440,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south stair. arc left open. 8 steps. The radio coil stays for the hold."}
+{"n":441,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the plywood at Ward gate. Nobody past the west roof. We hold in 2 steps. Arc on the left lane, open."}
+{"n":442,"kind":"place","name":"Ward gate west roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate west roof. Matt keeps the plywood for the hold. 3 steps, arc on the left lane, open."}
