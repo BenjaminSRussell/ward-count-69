@@ -334,3 +334,6 @@
 {"n":334,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, west roof. arc left open. 6 steps. The rebar stays for the hold."}
 {"n":335,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rebar at Mall court. Nobody past the west roof. We hold in 7 steps. Arc on the left lane, open."}
 {"n":336,"kind":"place","name":"Mall court west roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mall court west roof. Ivo keeps the rebar for the hold. 8 steps, arc on the left lane, open."}
+{"n":337,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west roof. arc left open. 2 steps. The rebar stays for the hold."}
+{"n":338,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at Mall court. Nobody past the west roof. We hold in 3 steps. Arc on the left lane, open."}
+{"n":339,"kind":"place","name":"Mall court west roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court west roof. Bess keeps the rebar for the hold. 4 steps, arc on the left lane, open."}
