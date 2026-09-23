@@ -296,3 +296,6 @@
 {"n":296,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the rebar at Kessler alley. Nobody past the west roof. We hold in 3 steps. Arc on the left lane, open."}
 {"n":297,"kind":"place","name":"Kessler alley west roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley west roof. Nia keeps the rebar for the hold. 4 steps, arc on the left lane, open."}
 {"n":298,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west roof. arc left open. 5 steps. The rebar stays for the hold."}
+{"n":299,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rebar at Kessler alley. Nobody past the west roof. We hold in 6 steps. Arc on the left lane, open."}
+{"n":300,"kind":"place","name":"Kessler alley west roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley west roof. Ivo keeps the rebar for the hold. 7 steps, arc on the left lane, open."}
+{"n":301,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west roof. arc left open. 8 steps. The rebar stays for the hold."}
