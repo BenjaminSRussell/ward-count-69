@@ -59,3 +59,6 @@
 {"n":59,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the crate at High line. Nobody past the east stair. We hold in 3 steps. Arc on the left lane, open."}
 {"n":60,"kind":"place","name":"High line east stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line east stair. Ivo keeps the crate for the hold. 4 steps, arc on the left lane, open."}
 {"n":61,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east stair. arc left open. 5 steps. The crate stays for the hold."}
+{"n":62,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the crate at High line. Nobody past the east stair. We hold in 6 steps. Arc on the left lane, open."}
+{"n":63,"kind":"place","name":"High line east stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line east stair. Bess keeps the crate for the hold. 7 steps, arc on the left lane, open."}
+{"n":64,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east stair. arc left open. 8 steps. The crate stays for the hold."}
