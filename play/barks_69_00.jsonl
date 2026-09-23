@@ -165,3 +165,6 @@
 {"n":165,"kind":"place","name":"South stair east stair","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"South stair east stair. Nia keeps the lamp for the hold. 4 steps, arc on the left lane, open."}
 {"n":166,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, east stair. arc left open. 5 steps. The lamp stays for the hold."}
 {"n":167,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the lamp at South stair. Nobody past the east stair. We hold in 6 steps. Arc on the left lane, open."}
+{"n":168,"kind":"place","name":"South stair east stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair east stair. Ivo keeps the lamp for the hold. 7 steps, arc on the left lane, open."}
+{"n":169,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east stair. arc left open. 8 steps. The lamp stays for the hold."}
+{"n":170,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at South stair. Nobody past the east stair. We hold in 2 steps. Arc on the left lane, open."}
