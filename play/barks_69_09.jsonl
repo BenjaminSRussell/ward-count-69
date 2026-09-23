@@ -33,3 +33,6 @@
 {"n":33,"kind":"place","name":"the Underpass east roof","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Underpass east roof. Nia keeps the drum for the hold. 3 steps, arc on the left lane, open."}
 {"n":34,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east roof. arc left open. 4 steps. The drum stays for the hold."}
 {"n":35,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at the Underpass. Nobody past the east roof. We hold in 5 steps. Arc on the left lane, open."}
+{"n":36,"kind":"place","name":"the Underpass east roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass east roof. Ivo keeps the drum for the hold. 6 steps, arc on the left lane, open."}
+{"n":37,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east roof. arc left open. 7 steps. The drum stays for the hold."}
+{"n":38,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at the Underpass. Nobody past the east roof. We hold in 8 steps. Arc on the left lane, open."}
