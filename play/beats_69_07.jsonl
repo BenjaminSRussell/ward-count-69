@@ -952,3 +952,6 @@
 {"n":952,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the barrel at High line. Nobody past the east roof. We hold in 7 steps. Arc on the left lane, open."}
 {"n":953,"kind":"place","name":"High line east roof","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"High line east roof. Nia keeps the barrel for the hold. 8 steps, arc on the left lane, open."}
 {"n":954,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east roof. arc left open. 2 steps. The barrel stays for the hold."}
+{"n":955,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the barrel at High line. Nobody past the east roof. We hold in 3 steps. Arc on the left lane, open."}
+{"n":956,"kind":"place","name":"High line east roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line east roof. Ivo keeps the barrel for the hold. 4 steps, arc on the left lane, open."}
+{"n":957,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east roof. arc left open. 5 steps. The barrel stays for the hold."}
