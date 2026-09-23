@@ -971,3 +971,6 @@
 {"n":971,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west roof. arc left open. 7 steps. The crate stays for the hold."}
 {"n":972,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the crate at the Lot. Nobody past the west roof. We hold in 8 steps. Arc on the left lane, open."}
 {"n":973,"kind":"place","name":"the Lot west roof","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Lot west roof. Nia keeps the crate for the hold. 2 steps, arc on the left lane, open."}
+{"n":974,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west roof. arc left open. 3 steps. The crate stays for the hold."}
+{"n":975,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the crate at the Lot. Nobody past the west roof. We hold in 4 steps. Arc on the left lane, open."}
+{"n":976,"kind":"place","name":"the Lot west roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot west roof. Ivo keeps the crate for the hold. 5 steps, arc on the left lane, open."}
