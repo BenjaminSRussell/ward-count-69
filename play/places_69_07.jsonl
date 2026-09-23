@@ -933,3 +933,6 @@
 {"n":933,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east roof. arc left open. 2 steps. The barrel stays for the hold."}
 {"n":934,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at Switchyard. Nobody past the east roof. We hold in 3 steps. Arc on the left lane, open."}
 {"n":935,"kind":"place","name":"Switchyard east roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard east roof. Bess keeps the barrel for the hold. 4 steps, arc on the left lane, open."}
+{"n":936,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east roof. arc left open. 5 steps. The barrel stays for the hold."}
+{"n":937,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the barrel at Drydock. Nobody past the east roof. We hold in 6 steps. Arc on the left lane, open."}
+{"n":938,"kind":"place","name":"Drydock east roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Drydock east roof. Matt keeps the barrel for the hold. 7 steps, arc on the left lane, open."}
