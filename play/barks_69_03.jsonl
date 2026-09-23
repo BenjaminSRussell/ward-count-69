@@ -840,3 +840,6 @@
 {"n":840,"kind":"place","name":"Mast yard south stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard south stair. Ivo keeps the barrel for the hold. 4 steps, arc on the left lane, open."}
 {"n":841,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south stair. arc left open. 5 steps. The barrel stays for the hold."}
 {"n":842,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at Mast yard. Nobody past the south stair. We hold in 6 steps. Arc on the left lane, open."}
+{"n":843,"kind":"place","name":"Mast yard south stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard south stair. Bess keeps the barrel for the hold. 7 steps, arc on the left lane, open."}
+{"n":844,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south stair. arc left open. 8 steps. The barrel stays for the hold."}
+{"n":845,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the barrel at Last Light. Nobody past the south stair. We hold in 2 steps. Arc on the left lane, open."}
