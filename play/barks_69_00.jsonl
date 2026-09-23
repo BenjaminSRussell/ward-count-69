@@ -51,3 +51,6 @@
 {"n":51,"kind":"place","name":"Drydock east stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock east stair. Bess keeps the crate for the hold. 2 steps, arc on the left lane, open."}
 {"n":52,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east stair. arc left open. 3 steps. The crate stays for the hold."}
 {"n":53,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the crate at High line. Nobody past the east stair. We hold in 4 steps. Arc on the left lane, open."}
+{"n":54,"kind":"place","name":"High line east stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line east stair. Matt keeps the crate for the hold. 5 steps, arc on the left lane, open."}
+{"n":55,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east stair. arc left open. 6 steps. The crate stays for the hold."}
+{"n":56,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the crate at High line. Nobody past the east stair. We hold in 7 steps. Arc on the left lane, open."}
