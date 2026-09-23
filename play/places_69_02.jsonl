@@ -383,3 +383,6 @@
 {"n":383,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, north stair. arc left open. 3 steps. The rebar stays for the hold."}
 {"n":384,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the rebar at Switchyard. Nobody past the north stair. We hold in 4 steps. Arc on the left lane, open."}
 {"n":385,"kind":"place","name":"Switchyard north stair","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard north stair. Nia keeps the rebar for the hold. 5 steps, arc on the left lane, open."}
+{"n":386,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north stair. arc left open. 6 steps. The rebar stays for the hold."}
+{"n":387,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rebar at Switchyard. Nobody past the north stair. We hold in 7 steps. Arc on the left lane, open."}
+{"n":388,"kind":"place","name":"Switchyard north stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard north stair. Ivo keeps the rebar for the hold. 8 steps, arc on the left lane, open."}
