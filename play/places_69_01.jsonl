@@ -738,3 +738,6 @@
 {"n":738,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north stair. arc left open. 2 steps. The hydrant stays for the hold."}
 {"n":739,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at High line. Nobody past the north stair. We hold in 3 steps. Arc on the left lane, open."}
 {"n":740,"kind":"place","name":"High line north stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line north stair. Ivo keeps the hydrant for the hold. 4 steps, arc on the left lane, open."}
+{"n":741,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north stair. arc left open. 5 steps. The hydrant stays for the hold."}
+{"n":742,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at High line. Nobody past the north stair. We hold in 6 steps. Arc on the left lane, open."}
+{"n":743,"kind":"place","name":"High line north stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line north stair. Bess keeps the hydrant for the hold. 7 steps, arc on the left lane, open."}
