@@ -109,3 +109,6 @@
 {"n":109,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west roof. arc left open. 5 steps. The crate stays for the hold."}
 {"n":110,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the crate at High line. Nobody past the west roof. We hold in 6 steps. Arc on the left lane, open."}
 {"n":111,"kind":"place","name":"High line west roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line west roof. Bess keeps the crate for the hold. 7 steps, arc on the left lane, open."}
+{"n":112,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west roof. arc left open. 8 steps. The crate stays for the hold."}
+{"n":113,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the lamp at Ward gate. Nobody past the west roof. We hold in 2 steps. Arc on the left lane, open."}
+{"n":114,"kind":"place","name":"Ward gate west roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate west roof. Matt keeps the lamp for the hold. 3 steps, arc on the left lane, open."}
