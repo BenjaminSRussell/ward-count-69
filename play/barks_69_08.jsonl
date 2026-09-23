@@ -736,3 +736,6 @@
 {"n":736,"kind":"place","name":"South stair east roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"South stair east roof. Ivo keeps the shutter for the hold. 7 steps, arc on the left lane, open."}
 {"n":737,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east roof. arc left open. 8 steps. The shutter stays for the hold."}
 {"n":738,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at South stair. Nobody past the east roof. We hold in 2 steps. Arc on the left lane, open."}
+{"n":739,"kind":"place","name":"South stair east roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair east roof. Bess keeps the shutter for the hold. 3 steps, arc on the left lane, open."}
+{"n":740,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east roof. arc left open. 4 steps. The shutter stays for the hold."}
+{"n":741,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the shutter at the pier. Nobody past the east roof. We hold in 5 steps. Arc on the left lane, open."}
