@@ -414,3 +414,6 @@
 {"n":414,"kind":"place","name":"Kessler alley east stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley east stair. Matt keeps the rope for the hold. 8 steps, arc on the left lane, open."}
 {"n":415,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, east stair. arc left open. 2 steps. The rope stays for the hold."}
 {"n":416,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the rope at Kessler alley. Nobody past the east stair. We hold in 3 steps. Arc on the left lane, open."}
+{"n":417,"kind":"place","name":"Kessler alley east stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley east stair. Nia keeps the rope for the hold. 4 steps, arc on the left lane, open."}
+{"n":418,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east stair. arc left open. 5 steps. The rope stays for the hold."}
+{"n":419,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rope at Kessler alley. Nobody past the east stair. We hold in 6 steps. Arc on the left lane, open."}
