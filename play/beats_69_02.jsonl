@@ -699,3 +699,6 @@
 {"n":699,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the shutter at the pier. Nobody past the north stair. We hold in 4 steps. Arc on the left lane, open."}
 {"n":700,"kind":"place","name":"the pier north stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier north stair. Ivo keeps the shutter for the hold. 5 steps, arc on the left lane, open."}
 {"n":701,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north stair. arc left open. 6 steps. The shutter stays for the hold."}
+{"n":702,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at the pier. Nobody past the north stair. We hold in 7 steps. Arc on the left lane, open."}
+{"n":703,"kind":"place","name":"the pier north stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier north stair. Bess keeps the shutter for the hold. 8 steps, arc on the left lane, open."}
+{"n":704,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north stair. arc left open. 2 steps. The shutter stays for the hold."}
