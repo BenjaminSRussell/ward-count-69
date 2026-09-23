@@ -445,3 +445,6 @@
 {"n":445,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the radio coil at High line. Nobody past the west roof. We hold in 4 steps. Arc on the left lane, open."}
 {"n":446,"kind":"place","name":"High line west roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"High line west roof. Matt keeps the radio coil for the hold. 5 steps, arc on the left lane, open."}
 {"n":447,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west roof. arc left open. 6 steps. The radio coil stays for the hold."}
+{"n":448,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the radio coil at High line. Nobody past the west roof. We hold in 7 steps. Arc on the left lane, open."}
+{"n":449,"kind":"place","name":"High line west roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"High line west roof. Nia keeps the radio coil for the hold. 8 steps, arc on the left lane, open."}
+{"n":450,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west roof. arc left open. 2 steps. The radio coil stays for the hold."}
