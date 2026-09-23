@@ -520,3 +520,6 @@
 {"n":520,"kind":"place","name":"Mall court east roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mall court east roof. Ivo keeps the rope for the hold. 8 steps, arc on the left lane, open."}
 {"n":521,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, east roof. arc left open. 2 steps. The rope stays for the hold."}
 {"n":522,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rope at Mall court. Nobody past the east roof. We hold in 3 steps. Arc on the left lane, open."}
+{"n":523,"kind":"place","name":"Mall court east roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mall court east roof. Bess keeps the rope for the hold. 4 steps, arc on the left lane, open."}
+{"n":524,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, east roof. arc left open. 5 steps. The rope stays for the hold."}
+{"n":525,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rope at the Underpass. Nobody past the east roof. We hold in 6 steps. Arc on the left lane, open."}
