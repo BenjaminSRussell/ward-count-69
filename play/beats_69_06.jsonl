@@ -182,3 +182,6 @@
 {"n":182,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at the Underpass. Nobody past the west roof. We hold in 8 steps. Arc on the left lane, open."}
 {"n":183,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Underpass west roof. Bess keeps the lamp for the hold. 2 steps, arc on the left lane, open."}
 {"n":184,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west roof. arc left open. 3 steps. The lamp stays for the hold."}
+{"n":185,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the lamp at Mast yard. Nobody past the west roof. We hold in 4 steps. Arc on the left lane, open."}
+{"n":186,"kind":"place","name":"Mast yard west roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mast yard west roof. Matt keeps the lamp for the hold. 5 steps, arc on the left lane, open."}
+{"n":187,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, west roof. arc left open. 6 steps. The lamp stays for the hold."}
