@@ -902,3 +902,6 @@
 {"n":902,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the awning at High line. Nobody past the east stair. We hold in 6 steps. Arc on the left lane, open."}
 {"n":903,"kind":"place","name":"High line east stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line east stair. Bess keeps the awning for the hold. 7 steps, arc on the left lane, open."}
 {"n":904,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east stair. arc left open. 8 steps. The awning stays for the hold."}
+{"n":905,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the drum at Ward gate. Nobody past the east stair. We hold in 2 steps. Arc on the left lane, open."}
+{"n":906,"kind":"place","name":"Ward gate east stair","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate east stair. Matt keeps the drum for the hold. 3 steps, arc on the left lane, open."}
+{"n":907,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east stair. arc left open. 4 steps. The drum stays for the hold."}
