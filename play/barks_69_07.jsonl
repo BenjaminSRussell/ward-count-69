@@ -356,3 +356,6 @@
 {"n":356,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass west roof. Ivo keeps the radio coil for the hold. 6 steps, arc on the left lane, open."}
 {"n":357,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west roof. arc left open. 7 steps. The radio coil stays for the hold."}
 {"n":358,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at the Underpass. Nobody past the west roof. We hold in 8 steps. Arc on the left lane, open."}
+{"n":359,"kind":"place","name":"the Underpass west roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Underpass west roof. Bess keeps the radio coil for the hold. 2 steps, arc on the left lane, open."}
+{"n":360,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west roof. arc left open. 3 steps. The radio coil stays for the hold."}
+{"n":361,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the radio coil at Mast yard. Nobody past the west roof. We hold in 4 steps. Arc on the left lane, open."}
