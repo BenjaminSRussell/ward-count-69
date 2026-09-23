@@ -378,3 +378,6 @@
 {"n":378,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east stair. arc left open. 6 steps. The radio coil stays for the hold."}
 {"n":379,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the radio coil at Switchyard. Nobody past the east stair. We hold in 7 steps. Arc on the left lane, open."}
 {"n":380,"kind":"place","name":"Switchyard east stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard east stair. Ivo keeps the radio coil for the hold. 8 steps, arc on the left lane, open."}
+{"n":381,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east stair. arc left open. 2 steps. The radio coil stays for the hold."}
+{"n":382,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at Switchyard. Nobody past the east stair. We hold in 3 steps. Arc on the left lane, open."}
+{"n":383,"kind":"place","name":"Switchyard east stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard east stair. Bess keeps the radio coil for the hold. 4 steps, arc on the left lane, open."}
