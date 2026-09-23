@@ -690,3 +690,6 @@
 {"n":690,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north stair. arc left open. 3 steps. The hydrant stays for the hold."}
 {"n":691,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at the pier. Nobody past the north stair. We hold in 4 steps. Arc on the left lane, open."}
 {"n":692,"kind":"place","name":"the pier north stair","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the pier north stair. Ivo keeps the hydrant for the hold. 5 steps, arc on the left lane, open."}
+{"n":693,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north stair. arc left open. 6 steps. The hydrant stays for the hold."}
+{"n":694,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at the pier. Nobody past the north stair. We hold in 7 steps. Arc on the left lane, open."}
+{"n":695,"kind":"place","name":"the pier north stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier north stair. Bess keeps the hydrant for the hold. 8 steps, arc on the left lane, open."}
