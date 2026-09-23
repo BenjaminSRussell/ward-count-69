@@ -664,3 +664,6 @@
 {"n":664,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north roof. arc left open. 4 steps. The hydrant stays for the hold."}
 {"n":665,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the hydrant at the Lot. Nobody past the north roof. We hold in 5 steps. Arc on the left lane, open."}
 {"n":666,"kind":"place","name":"the Lot north roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Lot north roof. Matt keeps the hydrant for the hold. 6 steps, arc on the left lane, open."}
+{"n":667,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, north roof. arc left open. 7 steps. The hydrant stays for the hold."}
+{"n":668,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the hydrant at the Lot. Nobody past the north roof. We hold in 8 steps. Arc on the left lane, open."}
+{"n":669,"kind":"place","name":"the Lot north roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Lot north roof. Nia keeps the hydrant for the hold. 2 steps, arc on the left lane, open."}
