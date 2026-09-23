@@ -442,3 +442,6 @@
 {"n":442,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the plywood at the Lot. Nobody past the north stair. We hold in 7 steps. Arc on the left lane, open."}
 {"n":443,"kind":"place","name":"the Lot north stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot north stair. Bess keeps the plywood for the hold. 8 steps, arc on the left lane, open."}
 {"n":444,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north stair. arc left open. 2 steps. The plywood stays for the hold."}
+{"n":445,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the plywood at Stockyard fence. Nobody past the north stair. We hold in 3 steps. Arc on the left lane, open."}
+{"n":446,"kind":"place","name":"Stockyard fence north stair","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Stockyard fence north stair. Matt keeps the plywood for the hold. 4 steps, arc on the left lane, open."}
+{"n":447,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north stair. arc left open. 5 steps. The plywood stays for the hold."}
