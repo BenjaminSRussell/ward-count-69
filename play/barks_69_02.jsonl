@@ -361,3 +361,6 @@
 {"n":361,"kind":"place","name":"the pier north stair","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the pier north stair. Nia keeps the rebar for the hold. 2 steps, arc on the left lane, open."}
 {"n":362,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north stair. arc left open. 3 steps. The rebar stays for the hold."}
 {"n":363,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rebar at the pier. Nobody past the north stair. We hold in 4 steps. Arc on the left lane, open."}
+{"n":364,"kind":"place","name":"the pier north stair","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the pier north stair. Ivo keeps the rebar for the hold. 5 steps, arc on the left lane, open."}
+{"n":365,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north stair. arc left open. 6 steps. The rebar stays for the hold."}
+{"n":366,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at the pier. Nobody past the north stair. We hold in 7 steps. Arc on the left lane, open."}
