@@ -133,3 +133,6 @@
 {"n":133,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east roof. arc left open. 5 steps. The drum stays for the hold."}
 {"n":134,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at High line. Nobody past the east roof. We hold in 6 steps. Arc on the left lane, open."}
 {"n":135,"kind":"place","name":"High line east roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line east roof. Bess keeps the drum for the hold. 7 steps, arc on the left lane, open."}
+{"n":136,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east roof. arc left open. 8 steps. The drum stays for the hold."}
+{"n":137,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the badge door at Ward gate. Nobody past the east roof. We hold in 2 steps. Arc on the left lane, open."}
+{"n":138,"kind":"place","name":"Ward gate east roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate east roof. Matt keeps the badge door for the hold. 3 steps, arc on the left lane, open."}
