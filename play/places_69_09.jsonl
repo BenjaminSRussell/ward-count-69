@@ -718,3 +718,6 @@
 {"n":718,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, north roof. arc left open. 2 steps. The hydrant stays for the hold."}
 {"n":719,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at Mast yard. Nobody past the north roof. We hold in 3 steps. Arc on the left lane, open."}
 {"n":720,"kind":"place","name":"Mast yard north roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard north roof. Ivo keeps the hydrant for the hold. 4 steps, arc on the left lane, open."}
+{"n":721,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north roof. arc left open. 5 steps. The hydrant stays for the hold."}
+{"n":722,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at Mast yard. Nobody past the north roof. We hold in 6 steps. Arc on the left lane, open."}
+{"n":723,"kind":"place","name":"Mast yard north roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard north roof. Bess keeps the hydrant for the hold. 7 steps, arc on the left lane, open."}
