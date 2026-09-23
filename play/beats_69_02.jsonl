@@ -198,3 +198,6 @@
 {"n":198,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at the pier. Nobody past the north stair. We hold in 7 steps. Arc on the left lane, open."}
 {"n":199,"kind":"place","name":"the pier north stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier north stair. Bess keeps the lamp for the hold. 8 steps, arc on the left lane, open."}
 {"n":200,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north stair. arc left open. 2 steps. The lamp stays for the hold."}
+{"n":201,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the lamp at Clinic roof. Nobody past the north stair. We hold in 3 steps. Arc on the left lane, open."}
+{"n":202,"kind":"place","name":"Clinic roof north stair","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof north stair. Matt keeps the lamp for the hold. 4 steps, arc on the left lane, open."}
+{"n":203,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north stair. arc left open. 5 steps. The lamp stays for the hold."}
