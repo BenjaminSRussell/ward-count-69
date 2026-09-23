@@ -556,3 +556,6 @@
 {"n":556,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the plywood at Drydock. Nobody past the north stair. We hold in 2 steps. Arc on the left lane, open."}
 {"n":557,"kind":"place","name":"Drydock north stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock north stair. Nia keeps the plywood for the hold. 3 steps, arc on the left lane, open."}
 {"n":558,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north stair. arc left open. 4 steps. The plywood stays for the hold."}
+{"n":559,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the plywood at Drydock. Nobody past the north stair. We hold in 5 steps. Arc on the left lane, open."}
+{"n":560,"kind":"place","name":"Drydock north stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock north stair. Ivo keeps the plywood for the hold. 6 steps, arc on the left lane, open."}
+{"n":561,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north stair. arc left open. 7 steps. The plywood stays for the hold."}
