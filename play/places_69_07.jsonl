@@ -441,3 +441,6 @@
 {"n":441,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west roof. arc left open. 7 steps. The radio coil stays for the hold."}
 {"n":442,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at Drydock. Nobody past the west roof. We hold in 8 steps. Arc on the left lane, open."}
 {"n":443,"kind":"place","name":"Drydock west roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Drydock west roof. Bess keeps the radio coil for the hold. 2 steps, arc on the left lane, open."}
+{"n":444,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west roof. arc left open. 3 steps. The radio coil stays for the hold."}
+{"n":445,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the radio coil at High line. Nobody past the west roof. We hold in 4 steps. Arc on the left lane, open."}
+{"n":446,"kind":"place","name":"High line west roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"High line west roof. Matt keeps the radio coil for the hold. 5 steps, arc on the left lane, open."}
