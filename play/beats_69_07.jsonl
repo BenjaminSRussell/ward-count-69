@@ -685,3 +685,6 @@
 {"n":685,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the hydrant at the Underpass. Nobody past the east roof. We hold in 6 steps. Arc on the left lane, open."}
 {"n":686,"kind":"place","name":"the Underpass east roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Underpass east roof. Matt keeps the hydrant for the hold. 7 steps, arc on the left lane, open."}
 {"n":687,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east roof. arc left open. 8 steps. The hydrant stays for the hold."}
+{"n":688,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the hydrant at the Underpass. Nobody past the east roof. We hold in 2 steps. Arc on the left lane, open."}
+{"n":689,"kind":"place","name":"the Underpass east roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Underpass east roof. Nia keeps the hydrant for the hold. 3 steps, arc on the left lane, open."}
+{"n":690,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east roof. arc left open. 4 steps. The hydrant stays for the hold."}
