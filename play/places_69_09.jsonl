@@ -595,3 +595,6 @@
 {"n":595,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north roof. arc left open. 5 steps. The plywood stays for the hold."}
 {"n":596,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the plywood at Clinic roof. Nobody past the north roof. We hold in 6 steps. Arc on the left lane, open."}
 {"n":597,"kind":"place","name":"Clinic roof north roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof north roof. Nia keeps the plywood for the hold. 7 steps, arc on the left lane, open."}
+{"n":598,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north roof. arc left open. 8 steps. The plywood stays for the hold."}
+{"n":599,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the plywood at Clinic roof. Nobody past the north roof. We hold in 2 steps. Arc on the left lane, open."}
+{"n":600,"kind":"place","name":"Clinic roof north roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof north roof. Ivo keeps the plywood for the hold. 3 steps, arc on the left lane, open."}
