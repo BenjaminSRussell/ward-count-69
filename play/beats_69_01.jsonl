@@ -892,3 +892,6 @@
 {"n":892,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the barrel at Drydock. Nobody past the north stair. We hold in 2 steps. Arc on the left lane, open."}
 {"n":893,"kind":"place","name":"Drydock north stair","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock north stair. Nia keeps the barrel for the hold. 3 steps, arc on the left lane, open."}
 {"n":894,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north stair. arc left open. 4 steps. The barrel stays for the hold."}
+{"n":895,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the barrel at Drydock. Nobody past the north stair. We hold in 5 steps. Arc on the left lane, open."}
+{"n":896,"kind":"place","name":"Drydock north stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock north stair. Ivo keeps the barrel for the hold. 6 steps, arc on the left lane, open."}
+{"n":897,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north stair. arc left open. 7 steps. The barrel stays for the hold."}
