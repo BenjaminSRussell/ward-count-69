@@ -700,3 +700,6 @@
 {"n":700,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the hydrant at Clinic roof. Nobody past the north stair. We hold in 6 steps. Arc on the left lane, open."}
 {"n":701,"kind":"place","name":"Clinic roof north stair","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Clinic roof north stair. Nia keeps the hydrant for the hold. 7 steps, arc on the left lane, open."}
 {"n":702,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north stair. arc left open. 8 steps. The hydrant stays for the hold."}
+{"n":703,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at Clinic roof. Nobody past the north stair. We hold in 2 steps. Arc on the left lane, open."}
+{"n":704,"kind":"place","name":"Clinic roof north stair","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Clinic roof north stair. Ivo keeps the hydrant for the hold. 3 steps, arc on the left lane, open."}
+{"n":705,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north stair. arc left open. 4 steps. The hydrant stays for the hold."}
