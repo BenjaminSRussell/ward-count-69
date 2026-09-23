@@ -86,3 +86,6 @@
 {"n":86,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Switchyard west roof. Matt keeps the drum for the hold. 2 steps, arc on the left lane, open."}
 {"n":87,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, west roof. arc left open. 3 steps. The drum stays for the hold."}
 {"n":88,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the drum at Switchyard. Nobody past the west roof. We hold in 4 steps. Arc on the left lane, open."}
+{"n":89,"kind":"place","name":"Switchyard west roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Switchyard west roof. Nia keeps the drum for the hold. 5 steps, arc on the left lane, open."}
+{"n":90,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west roof. arc left open. 6 steps. The drum stays for the hold."}
+{"n":91,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at Switchyard. Nobody past the west roof. We hold in 7 steps. Arc on the left lane, open."}
