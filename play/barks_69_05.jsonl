@@ -82,3 +82,6 @@
 {"n":82,"kind":"place","name":"Drydock south stair","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock south stair. Matt keeps the drum for the hold. 7 steps, arc on the left lane, open."}
 {"n":83,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south stair. arc left open. 8 steps. The drum stays for the hold."}
 {"n":84,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the drum at Drydock. Nobody past the south stair. We hold in 2 steps. Arc on the left lane, open."}
+{"n":85,"kind":"place","name":"Drydock south stair","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock south stair. Nia keeps the drum for the hold. 3 steps, arc on the left lane, open."}
+{"n":86,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south stair. arc left open. 4 steps. The drum stays for the hold."}
+{"n":87,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at Drydock. Nobody past the south stair. We hold in 5 steps. Arc on the left lane, open."}
