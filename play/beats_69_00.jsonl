@@ -509,3 +509,6 @@
 {"n":509,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rope at the pier. Nobody past the east stair. We hold in 5 steps. Arc on the left lane, open."}
 {"n":510,"kind":"place","name":"the pier east stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier east stair. Matt keeps the rope for the hold. 6 steps, arc on the left lane, open."}
 {"n":511,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east stair. arc left open. 7 steps. The rope stays for the hold."}
+{"n":512,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the rope at the pier. Nobody past the east stair. We hold in 8 steps. Arc on the left lane, open."}
+{"n":513,"kind":"place","name":"the pier east stair","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the pier east stair. Nia keeps the rope for the hold. 2 steps, arc on the left lane, open."}
+{"n":514,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, east stair. arc left open. 3 steps. The rope stays for the hold."}
