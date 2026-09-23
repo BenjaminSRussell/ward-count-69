@@ -910,3 +910,6 @@
 {"n":910,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at High line. Nobody past the north stair. We hold in 6 steps. Arc on the left lane, open."}
 {"n":911,"kind":"place","name":"High line north stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line north stair. Bess keeps the barrel for the hold. 7 steps, arc on the left lane, open."}
 {"n":912,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north stair. arc left open. 8 steps. The barrel stays for the hold."}
+{"n":913,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the crate at Ward gate. Nobody past the north stair. We hold in 2 steps. Arc on the left lane, open."}
+{"n":914,"kind":"place","name":"Ward gate north stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate north stair. Matt keeps the crate for the hold. 3 steps, arc on the left lane, open."}
+{"n":915,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north stair. arc left open. 4 steps. The crate stays for the hold."}
