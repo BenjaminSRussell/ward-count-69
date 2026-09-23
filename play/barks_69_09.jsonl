@@ -114,3 +114,6 @@
 {"n":114,"kind":"place","name":"Drydock east roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock east roof. Matt keeps the drum for the hold. 7 steps, arc on the left lane, open."}
 {"n":115,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east roof. arc left open. 8 steps. The drum stays for the hold."}
 {"n":116,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the drum at Drydock. Nobody past the east roof. We hold in 2 steps. Arc on the left lane, open."}
+{"n":117,"kind":"place","name":"Drydock east roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock east roof. Nia keeps the drum for the hold. 3 steps, arc on the left lane, open."}
+{"n":118,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, east roof. arc left open. 4 steps. The drum stays for the hold."}
+{"n":119,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at Drydock. Nobody past the east roof. We hold in 5 steps. Arc on the left lane, open."}
