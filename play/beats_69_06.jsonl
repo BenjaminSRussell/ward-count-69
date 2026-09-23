@@ -221,3 +221,6 @@
 {"n":221,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the lamp at the pier. Nobody past the west roof. We hold in 5 steps. Arc on the left lane, open."}
 {"n":222,"kind":"place","name":"the pier west roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the pier west roof. Matt keeps the lamp for the hold. 6 steps, arc on the left lane, open."}
 {"n":223,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, west roof. arc left open. 7 steps. The lamp stays for the hold."}
+{"n":224,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the lamp at the pier. Nobody past the west roof. We hold in 8 steps. Arc on the left lane, open."}
+{"n":225,"kind":"place","name":"the pier west roof","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the pier west roof. Nia keeps the lamp for the hold. 2 steps, arc on the left lane, open."}
+{"n":226,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, west roof. arc left open. 3 steps. The lamp stays for the hold."}
