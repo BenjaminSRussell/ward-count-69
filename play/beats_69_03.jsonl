@@ -923,3 +923,6 @@
 {"n":923,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the barrel at High line. Nobody past the south stair. We hold in 3 steps. Arc on the left lane, open."}
 {"n":924,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"High line south stair. Ivo keeps the barrel for the hold. 4 steps, arc on the left lane, open."}
 {"n":925,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south stair. arc left open. 5 steps. The barrel stays for the hold."}
+{"n":926,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at High line. Nobody past the south stair. We hold in 6 steps. Arc on the left lane, open."}
+{"n":927,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line south stair. Bess keeps the barrel for the hold. 7 steps, arc on the left lane, open."}
+{"n":928,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south stair. arc left open. 8 steps. The barrel stays for the hold."}
