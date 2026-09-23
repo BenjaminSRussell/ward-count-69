@@ -1,0 +1,3 @@
+{"n":1,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the drum at Mall court. Nobody past the west roof. We hold in 8 steps. Arc on the left lane, open."}
+{"n":2,"kind":"place","name":"Mall court west roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mall court west roof. Matt keeps the drum for the hold. 2 steps, arc on the left lane, open."}
+{"n":3,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, west roof. arc left open. 3 steps. The drum stays for the hold."}
