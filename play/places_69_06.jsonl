@@ -784,3 +784,6 @@
 {"n":784,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west roof. arc left open. 8 steps. The shutter stays for the hold."}
 {"n":785,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the awning at Ward gate. Nobody past the west roof. We hold in 2 steps. Arc on the left lane, open."}
 {"n":786,"kind":"place","name":"Ward gate west roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate west roof. Matt keeps the awning for the hold. 3 steps, arc on the left lane, open."}
+{"n":787,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west roof. arc left open. 4 steps. The awning stays for the hold."}
+{"n":788,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the awning at Ward gate. Nobody past the west roof. We hold in 5 steps. Arc on the left lane, open."}
+{"n":789,"kind":"place","name":"Ward gate west roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Ward gate west roof. Nia keeps the awning for the hold. 6 steps, arc on the left lane, open."}
