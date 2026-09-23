@@ -722,3 +722,6 @@
 {"n":722,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at Drydock. Nobody past the east stair. We hold in 8 steps. Arc on the left lane, open."}
 {"n":723,"kind":"place","name":"Drydock east stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Drydock east stair. Bess keeps the shutter for the hold. 2 steps, arc on the left lane, open."}
 {"n":724,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east stair. arc left open. 3 steps. The shutter stays for the hold."}
+{"n":725,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the shutter at High line. Nobody past the east stair. We hold in 4 steps. Arc on the left lane, open."}
+{"n":726,"kind":"place","name":"High line east stair","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"High line east stair. Matt keeps the shutter for the hold. 5 steps, arc on the left lane, open."}
+{"n":727,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east stair. arc left open. 6 steps. The shutter stays for the hold."}
