@@ -269,3 +269,6 @@
 {"n":269,"kind":"place","name":"Drydock west roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock west roof. Nia keeps the badge door for the hold. 3 steps, arc on the left lane, open."}
 {"n":270,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west roof. arc left open. 4 steps. The badge door stays for the hold."}
 {"n":271,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the badge door at Drydock. Nobody past the west roof. We hold in 5 steps. Arc on the left lane, open."}
+{"n":272,"kind":"place","name":"Drydock west roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock west roof. Ivo keeps the badge door for the hold. 6 steps, arc on the left lane, open."}
+{"n":273,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west roof. arc left open. 7 steps. The badge door stays for the hold."}
+{"n":274,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the badge door at Drydock. Nobody past the west roof. We hold in 8 steps. Arc on the left lane, open."}
