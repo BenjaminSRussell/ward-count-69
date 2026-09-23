@@ -407,3 +407,6 @@
 {"n":407,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the radio coil at South stair. Nobody past the east roof. We hold in 6 steps. Arc on the left lane, open."}
 {"n":408,"kind":"place","name":"South stair east roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair east roof. Ivo keeps the radio coil for the hold. 7 steps, arc on the left lane, open."}
 {"n":409,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east roof. arc left open. 8 steps. The radio coil stays for the hold."}
+{"n":410,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at South stair. Nobody past the east roof. We hold in 2 steps. Arc on the left lane, open."}
+{"n":411,"kind":"place","name":"South stair east roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"South stair east roof. Bess keeps the radio coil for the hold. 3 steps, arc on the left lane, open."}
+{"n":412,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east roof. arc left open. 4 steps. The radio coil stays for the hold."}
