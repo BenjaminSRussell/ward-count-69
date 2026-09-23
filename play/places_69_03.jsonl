@@ -769,3 +769,6 @@
 {"n":769,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south stair. arc left open. 3 steps. The barrel stays for the hold."}
 {"n":770,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at Ward gate. Nobody past the south stair. We hold in 4 steps. Arc on the left lane, open."}
 {"n":771,"kind":"place","name":"Ward gate south stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Ward gate south stair. Bess keeps the barrel for the hold. 5 steps, arc on the left lane, open."}
+{"n":772,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south stair. arc left open. 6 steps. The barrel stays for the hold."}
+{"n":773,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the barrel at Kessler alley. Nobody past the south stair. We hold in 7 steps. Arc on the left lane, open."}
+{"n":774,"kind":"place","name":"Kessler alley south stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley south stair. Matt keeps the barrel for the hold. 8 steps, arc on the left lane, open."}
