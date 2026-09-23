@@ -633,3 +633,6 @@
 {"n":633,"kind":"place","name":"the Underpass east stair","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Underpass east stair. Nia keeps the shutter for the hold. 3 steps, arc on the left lane, open."}
 {"n":634,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east stair. arc left open. 4 steps. The shutter stays for the hold."}
 {"n":635,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the shutter at the Underpass. Nobody past the east stair. We hold in 5 steps. Arc on the left lane, open."}
+{"n":636,"kind":"place","name":"the Underpass east stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass east stair. Ivo keeps the shutter for the hold. 6 steps, arc on the left lane, open."}
+{"n":637,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east stair. arc left open. 7 steps. The shutter stays for the hold."}
+{"n":638,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at the Underpass. Nobody past the east stair. We hold in 8 steps. Arc on the left lane, open."}
