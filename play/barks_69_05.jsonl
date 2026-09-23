@@ -688,3 +688,6 @@
 {"n":688,"kind":"place","name":"Mast yard west roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard west roof. Ivo keeps the hydrant for the hold. 4 steps, arc on the left lane, open."}
 {"n":689,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west roof. arc left open. 5 steps. The hydrant stays for the hold."}
 {"n":690,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at Mast yard. Nobody past the west roof. We hold in 6 steps. Arc on the left lane, open."}
+{"n":691,"kind":"place","name":"Mast yard west roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard west roof. Bess keeps the hydrant for the hold. 7 steps, arc on the left lane, open."}
+{"n":692,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west roof. arc left open. 8 steps. The hydrant stays for the hold."}
+{"n":693,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the hydrant at Last Light. Nobody past the west roof. We hold in 2 steps. Arc on the left lane, open."}
